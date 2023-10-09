@@ -1,0 +1,1041 @@
+BOROUGH,CONTRIBUTING FACTOR VEHICLE 1,CONTRIBUTING FACTOR VEHICLE 2,CRASH DATE,CRASH TIME,NUMBER OF PERSONS INJURED,NUMBER OF PERSONS KILLED,VEHICLE TYPE CODE 1,VEHICLE TYPE CODE 2,_id
+BROOKLYN,,,12/14/2021,8:13,0,0,,,65226c0c27407f3e1fedf8b2
+,Passing Too Closely,Unspecified,12/14/2021,17:05,0,0,Sedan,Tractor Truck Diesel,65226c0c27407f3e1fedf8b4
+BRONX,Unspecified,Unspecified,12/14/2021,8:17,2,0,Sedan,Sedan,65226c0c27407f3e1fedf8b5
+BROOKLYN,Driver Inexperience,Unspecified,12/14/2021,21:10,0,0,Sedan,,65226c0c27407f3e1fedf8b6
+MANHATTAN,Passing Too Closely,Unspecified,12/14/2021,14:58,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8b7
+,Passing or Lane Usage Improper,Unspecified,12/13/2021,0:34,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8b8
+QUEENS,Turning Improperly,Unspecified,12/14/2021,16:50,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8b9
+,Unsafe Lane Changing,Unspecified,12/14/2021,8:30,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf8ba
+,Unsafe Speed,,12/14/2021,0:59,0,0,Sedan,,65226c0c27407f3e1fedf8bb
+QUEENS,Reaction to Uninvolved Vehicle,Unspecified,12/14/2021,23:10,2,0,Sedan,Sedan,65226c0c27407f3e1fedf8bc
+BROOKLYN,Passing Too Closely,Unspecified,12/14/2021,17:58,0,0,Tanker,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8bd
+BROOKLYN,Steering Failure,,12/14/2021,20:03,4,0,Sedan,,65226c0c27407f3e1fedf8be
+,Traffic Control Disregarded,Unspecified,12/14/2021,1:28,3,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8bf
+BRONX,Unspecified,Unspecified,12/11/2021,19:43,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf8c0
+,Following Too Closely,Unspecified,12/14/2021,14:30,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf8c1
+MANHATTAN,Following Too Closely,Unspecified,12/11/2021,4:45,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8c2
+,Other Vehicular,Other Vehicular,12/14/2021,5:46,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8c3
+QUEENS,Unspecified,,12/13/2021,6:30,0,0,Sedan,,65226c0c27407f3e1fedf8c4
+,Unspecified,,12/14/2021,3:43,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8c5
+STATEN ISLAND,Unspecified,Unspecified,12/13/2021,17:40,1,0,Sedan,Sedan,65226c0c27407f3e1fedf8c6
+BROOKLYN,Unspecified,,12/14/2021,17:31,1,0,Sedan,,65226c0c27407f3e1fedf8c7
+BROOKLYN,Passing Too Closely,Unspecified,12/14/2021,20:13,0,0,Sedan,,65226c0c27407f3e1fedf8c8
+BROOKLYN,Unspecified,Unspecified,12/14/2021,12:54,1,0,Sedan,Bike,65226c0c27407f3e1fedf8c9
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,12/14/2021,17:15,1,0,Bus,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8ca
+BRONX,Driver Inattention/Distraction,Unspecified,12/14/2021,22:49,0,0,Taxi,,65226c0c27407f3e1fedf8cb
+QUEENS,Passing Too Closely,Unspecified,12/12/2021,9:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8cc
+,Driver Inattention/Distraction,Driver Inattention/Distraction,12/14/2021,16:25,1,0,Van,Bike,65226c0c27407f3e1fedf8cd
+,Driver Inattention/Distraction,Unspecified,4/14/2021,14:30,0,0,Bus,,65226c0c27407f3e1fedf8ce
+,Traffic Control Disregarded,,12/16/2021,6:59,1,0,,,65226c0c27407f3e1fedf8cf
+,Driver Inattention/Distraction,Unspecified,6/29/2022,16:00,1,0,Motorscooter,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8d0
+,Pavement Slippery,,4/15/2021,16:15,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8d1
+,Unsafe Lane Changing,Unspecified,7/7/2021,11:42,1,0,Sedan,Sedan,65226c0c27407f3e1fedf8d2
+BROOKLYN,Oversized Vehicle,Unspecified,7/12/2022,17:50,0,0,Sedan,,65226c0c27407f3e1fedf8d3
+,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,,3/23/2022,10:00,0,0,Bike,,65226c0c27407f3e1fedf8d4
+,Unspecified,,7/9/2021,0:43,0,1,Bus,,65226c0c27407f3e1fedf8d5
+,Driver Inattention/Distraction,Unspecified,4/24/2022,16:45,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8d6
+,Unspecified,Unspecified,4/24/2022,4:49,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf8d7
+,Traffic Control Disregarded,,4/22/2022,17:17,1,0,E-Bike,,65226c0c27407f3e1fedf8d8
+BROOKLYN,Unspecified,,4/24/2022,1:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8d9
+QUEENS,Unsafe Lane Changing,Unspecified,4/24/2022,6:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8da
+BRONX,Alcohol Involvement,Unspecified,4/24/2022,21:40,0,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8db
+BRONX,Driver Inattention/Distraction,Unspecified,4/24/2022,17:45,0,0,Sedan,,65226c0c27407f3e1fedf8dc
+,Driver Inattention/Distraction,Unspecified,4/15/2022,6:11,1,0,Station Wagon/Sport Utility Vehicle,E-Scooter,65226c0c27407f3e1fedf8dd
+,Unspecified,Unspecified,4/24/2022,9:51,0,0,Sedan,,65226c0c27407f3e1fedf8de
+BRONX,Driver Inattention/Distraction,Unspecified,4/24/2022,0:00,0,0,Sedan,,65226c0c27407f3e1fedf8df
+BROOKLYN,Unspecified,Unspecified,3/8/2022,20:00,0,0,Sedan,,65226c0c27407f3e1fedf8e0
+MANHATTAN,View Obstructed/Limited,Unspecified,4/24/2022,15:35,1,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedf8e1
+BROOKLYN,Unspecified,Unspecified,4/22/2022,12:00,1,0,Sedan,Pick-up Truck,65226c0c27407f3e1fedf8e2
+,Turning Improperly,Unspecified,4/24/2022,13:10,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8e3
+BROOKLYN,Traffic Control Disregarded,Unspecified,4/24/2022,4:20,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8e4
+,Driver Inexperience,Unspecified,4/20/2022,19:37,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8e5
+,Unspecified,Unspecified,4/24/2022,16:14,0,0,Sedan,Sedan,65226c0c27407f3e1fedf8e6
+BROOKLYN,Failure to Yield Right-of-Way,,4/12/2022,19:56,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8e7
+,Driver Inattention/Distraction,Unspecified,4/24/2022,0:30,1,0,Sedan,Sedan,65226c0c27407f3e1fedf8e8
+QUEENS,Aggressive Driving/Road Rage,,4/24/2022,20:13,0,0,Sedan,,65226c0c27407f3e1fedf8e9
+QUEENS,Driver Inattention/Distraction,Driver Inattention/Distraction,4/24/2022,15:21,1,0,Sedan,Sedan,65226c0c27407f3e1fedf8ea
+,Traffic Control Disregarded,Traffic Control Disregarded,4/24/2022,10:27,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8eb
+QUEENS,Driver Inattention/Distraction,Unspecified,4/24/2022,21:00,1,0,Sedan,Sedan,65226c0c27407f3e1fedf8ec
+QUEENS,Reaction to Uninvolved Vehicle,Unspecified,4/24/2022,21:40,0,0,Ambulance,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8ed
+MANHATTAN,Driver Inattention/Distraction,Passing or Lane Usage Improper,4/7/2022,14:14,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8ee
+,Passing or Lane Usage Improper,Unspecified,6/29/2021,17:35,0,0,Station Wagon/Sport Utility Vehicle,E-Bike,65226c0c27407f3e1fedf8ef
+BROOKLYN,Driver Inattention/Distraction,Unspecified,12/9/2021,20:20,1,0,Bike,,65226c0c27407f3e1fedf8f0
+,Unspecified,Unspecified,12/9/2021,14:50,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf8f1
+QUEENS,Alcohol Involvement,,12/9/2021,2:45,1,0,Sedan,,65226c0c27407f3e1fedf8f2
+,Unsafe Speed,Unspecified,12/6/2021,22:16,0,0,Sedan,,65226c0c27407f3e1fedf8f3
+BROOKLYN,Driver Inattention/Distraction,Driver Inattention/Distraction,12/4/2021,12:00,0,0,Sedan,Ambulance,65226c0c27407f3e1fedf8f4
+MANHATTAN,Failure to Yield Right-of-Way,Unspecified,12/8/2021,16:20,0,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8f5
+BROOKLYN,Driver Inattention/Distraction,Driver Inattention/Distraction,12/9/2021,23:15,1,0,Sedan,Bike,65226c0c27407f3e1fedf8f6
+QUEENS,Unsafe Speed,Unspecified,12/1/2021,14:34,0,0,Sedan,Pick-up Truck,65226c0c27407f3e1fedf8f7
+QUEENS,Passing or Lane Usage Improper,Unspecified,12/10/2021,7:00,0,0,Sedan,,65226c0c27407f3e1fedf8f8
+,Steering Failure,,12/7/2021,9:20,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf8f9
+,Following Too Closely,Unspecified,12/9/2021,8:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf8fa
+BROOKLYN,Following Too Closely,Unspecified,12/7/2021,17:08,0,0,,,65226c0c27407f3e1fedf8fb
+BROOKLYN,Unspecified,,12/5/2021,8:20,0,0,Sedan,,65226c0c27407f3e1fedf8fc
+MANHATTAN,Following Too Closely,Reaction to Uninvolved Vehicle,12/8/2021,19:30,1,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedf8fd
+MANHATTAN,Passing or Lane Usage Improper,Unspecified,12/8/2021,12:00,1,0,Box Truck,Bike,65226c0c27407f3e1fedf8fe
+,Unsafe Lane Changing,Unspecified,12/10/2021,8:06,0,0,Garbage or Refuse,Sedan,65226c0c27407f3e1fedf8ff
+,Unsafe Speed,Unspecified,12/8/2021,19:30,4,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf900
+STATEN ISLAND,Pavement Slippery,,12/8/2021,22:37,0,0,Sedan,,65226c0c27407f3e1fedf901
+,Unspecified,,12/8/2021,17:56,0,0,Sedan,,65226c0c27407f3e1fedf902
+,Driver Inattention/Distraction,Unspecified,12/7/2021,7:50,0,0,Sedan,Sedan,65226c0c27407f3e1fedf903
+QUEENS,View Obstructed/Limited,,12/8/2021,0:44,0,0,Sedan,,65226c0c27407f3e1fedf904
+,Passing Too Closely,,12/8/2021,15:00,0,0,Sedan,,65226c0c27407f3e1fedf905
+BRONX,Oversized Vehicle,Unspecified,12/10/2021,11:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf906
+,Driver Inattention/Distraction,Unspecified,12/10/2021,1:10,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf907
+,Unspecified,,12/9/2021,0:00,1,0,Sedan,,65226c0c27407f3e1fedf908
+,Passing or Lane Usage Improper,Unspecified,12/8/2021,18:36,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf909
+QUEENS,Illnes,,12/9/2021,20:30,0,0,Sedan,,65226c0c27407f3e1fedf90a
+BROOKLYN,Traffic Control Disregarded,Traffic Control Disregarded,12/9/2021,10:13,2,0,Sedan,Sedan,65226c0c27407f3e1fedf90b
+STATEN ISLAND,Driver Inattention/Distraction,Unspecified,3/26/2022,14:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedf90c
+MANHATTAN,Traffic Control Disregarded,Unspecified,3/26/2022,1:02,1,0,Sedan,Moped,65226c0c27407f3e1fedf90d
+QUEENS,Lost Consciousness,Unspecified,3/26/2022,16:02,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf90e
+QUEENS,Following Too Closely,Unspecified,3/26/2022,16:05,1,0,Station Wagon/Sport Utility Vehicle,Bus,65226c0c27407f3e1fedf90f
+MANHATTAN,Following Too Closely,Unspecified,3/21/2022,12:05,1,0,Motorcycle,Sedan,65226c0c27407f3e1fedf910
+QUEENS,Failure to Yield Right-of-Way,Unspecified,3/26/2022,5:13,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf911
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,17:42,0,0,Sedan,,65226c0c27407f3e1fedf912
+BRONX,Failure to Yield Right-of-Way,Unspecified,3/26/2022,12:18,2,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf913
+BRONX,Unspecified,,3/26/2022,20:10,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf914
+BRONX,Alcohol Involvement,Unspecified,3/26/2022,15:45,2,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf915
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,17:55,0,0,Sedan,,65226c0c27407f3e1fedf916
+BROOKLYN,Unsafe Speed,Unspecified,3/26/2022,0:50,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf917
+BROOKLYN,Unsafe Speed,Unspecified,3/26/2022,14:05,1,0,Station Wagon/Sport Utility Vehicle,Motorcycle,65226c0c27407f3e1fedf918
+,Unspecified,,3/26/2022,9:30,0,0,Sedan,,65226c0c27407f3e1fedf919
+BROOKLYN,Other Vehicular,Following Too Closely,3/10/2022,8:30,4,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf91a
+BRONX,Unspecified,,3/24/2022,23:00,1,0,Sedan,,65226c0c27407f3e1fedf91b
+BROOKLYN,Brakes Defective,Unspecified,3/26/2022,7:36,0,0,Station Wagon/Sport Utility Vehicle,Taxi,65226c0c27407f3e1fedf91c
+BROOKLYN,Failure to Yield Right-of-Way,,3/26/2022,11:50,2,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf91d
+QUEENS,Passing Too Closely,Unspecified,3/26/2022,17:42,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf91e
+MANHATTAN,Driver Inattention/Distraction,Driver Inattention/Distraction,3/26/2022,1:45,0,0,Sedan,Sedan,65226c0c27407f3e1fedf91f
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,3/26/2022,17:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf920
+QUEENS,Following Too Closely,Following Too Closely,2/25/2022,11:48,0,0,E-Scooter,Sedan,65226c0c27407f3e1fedf921
+,Failure to Yield Right-of-Way,,3/26/2022,22:51,1,0,Sedan,,65226c0c27407f3e1fedf922
+MANHATTAN,Driver Inattention/Distraction,Unspecified,3/26/2022,8:21,0,0,Box Truck,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf923
+,Traffic Control Disregarded,Unspecified,3/17/2022,8:00,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf924
+BROOKLYN,Backing Unsafely,Unspecified,3/26/2022,10:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf925
+,Unspecified,Unspecified,12/16/2021,9:23,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf926
+MANHATTAN,,,3/26/2022,13:48,1,0,,,65226c0c27407f3e1fedf927
+,Driver Inattention/Distraction,Unspecified,3/25/2022,9:56,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf928
+QUEENS,Driver Inattention/Distraction,Unspecified,3/26/2022,23:45,1,0,Sedan,Sedan,65226c0c27407f3e1fedf929
+,Unsafe Speed,Unspecified,3/26/2022,1:26,0,0,UTILITY,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf92a
+BROOKLYN,Aggressive Driving/Road Rage,,3/22/2022,9:07,1,0,Sedan,,65226c0c27407f3e1fedf92b
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,16:00,1,0,Sedan,Sedan,65226c0c27407f3e1fedf92c
+MANHATTAN,Following Too Closely,Unspecified,3/26/2022,23:17,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf92d
+,Traffic Control Disregarded,Unspecified,3/23/2022,9:00,1,0,Sedan,Motorcycle,65226c0c27407f3e1fedf92e
+,Following Too Closely,Unspecified,3/26/2022,5:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedf92f
+,Traffic Control Disregarded,Unspecified,3/25/2022,6:15,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf930
+,Driver Inattention/Distraction,Driver Inattention/Distraction,3/26/2022,21:50,1,0,Taxi,Sedan,65226c0c27407f3e1fedf931
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,21:25,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf932
+BROOKLYN,Unspecified,Unspecified,3/25/2022,18:13,2,0,Sedan,Sedan,65226c0c27407f3e1fedf933
+BRONX,Unspecified,,3/26/2022,20:10,1,0,Sedan,,65226c0c27407f3e1fedf934
+,Passing Too Closely,Unspecified,3/25/2022,12:55,0,0,Station Wagon/Sport Utility Vehicle,Pick-up Truck,65226c0c27407f3e1fedf935
+,Driver Inattention/Distraction,Unspecified,3/23/2022,11:00,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf936
+BROOKLYN,Unspecified,,3/26/2022,3:05,1,0,Sedan,,65226c0c27407f3e1fedf937
+BRONX,Unspecified,,3/26/2022,4:34,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf938
+BROOKLYN,Unspecified,,3/26/2022,19:56,0,0,Sedan,,65226c0c27407f3e1fedf939
+BROOKLYN,Unspecified,Unspecified,3/26/2022,12:40,0,0,Sedan,Sedan,65226c0c27407f3e1fedf93a
+BRONX,Turning Improperly,Unspecified,3/26/2022,1:58,0,0,Sedan,Sedan,65226c0c27407f3e1fedf93b
+,Unspecified,Unspecified,3/26/2022,19:56,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf93c
+BROOKLYN,Unspecified,Unspecified,3/26/2022,0:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf93d
+MANHATTAN,Unspecified,,3/16/2022,15:44,1,0,Bike,,65226c0c27407f3e1fedf93e
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,20:05,0,0,Sedan,Sedan,65226c0c27407f3e1fedf93f
+BROOKLYN,Passing Too Closely,Unspecified,3/26/2022,17:54,4,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf940
+,Traffic Control Disregarded,Unspecified,3/25/2022,17:55,0,0,Sedan,Motorcycle,65226c0c27407f3e1fedf941
+,Unspecified,,12/12/2021,9:09,0,1,Taxi,,65226c0c27407f3e1fedf942
+BROOKLYN,Following Too Closely,Unspecified,4/13/2021,16:00,0,0,Sedan,,65226c0c27407f3e1fedf943
+,Glare,Unspecified,8/5/2021,18:17,0,0,Sedan,Sedan,65226c0c27407f3e1fedf944
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,16:35,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf945
+MANHATTAN,Passenger Distraction,Unspecified,3/26/2022,19:50,1,0,E-Bike,BOX VAN,65226c0c27407f3e1fedf946
+QUEENS,Failure to Yield Right-of-Way,Unspecified,3/26/2022,13:19,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf947
+BROOKLYN,Unspecified,Unspecified,3/25/2022,8:45,2,0,Sedan,Sedan,65226c0c27407f3e1fedf948
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,3/26/2022,10:10,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf949
+,Reaction to Uninvolved Vehicle,Driver Inattention/Distraction,3/26/2022,11:45,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf94a
+,Failure to Yield Right-of-Way,,3/25/2022,14:35,1,0,Sedan,,65226c0c27407f3e1fedf94b
+STATEN ISLAND,Backing Unsafely,Unspecified,3/26/2022,14:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedf94c
+BROOKLYN,Backing Unsafely,Unspecified,3/26/2022,19:00,0,0,Sedan,,65226c0c27407f3e1fedf94d
+,Driver Inattention/Distraction,Unspecified,3/26/2022,2:05,0,0,Taxi,Pick-up Truck,65226c0c27407f3e1fedf94e
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,3/26/2022,16:40,2,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf94f
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/24/2022,18:05,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf950
+,Reaction to Uninvolved Vehicle,Unspecified,3/26/2022,3:35,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf951
+MANHATTAN,Backing Unsafely,,3/20/2022,10:34,1,0,Sedan,,65226c0c27407f3e1fedf952
+MANHATTAN,Passing or Lane Usage Improper,Unspecified,3/26/2022,14:54,0,0,Sedan,Taxi,65226c0c27407f3e1fedf953
+BRONX,Following Too Closely,Unspecified,3/25/2022,6:35,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf954
+,Driver Inattention/Distraction,Unspecified,3/25/2022,14:00,0,0,Station Wagon/Sport Utility Vehicle,Pick-up Truck,65226c0c27407f3e1fedf955
+,Driver Inattention/Distraction,Unspecified,3/21/2022,19:13,1,0,Sedan,Bike,65226c0c27407f3e1fedf956
+BROOKLYN,Fell Asleep,Unspecified,3/26/2022,5:02,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf957
+,Unspecified,Unspecified,3/25/2022,9:45,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf958
+BROOKLYN,Failure to Yield Right-of-Way,Unspecified,3/26/2022,22:54,0,0,Taxi,Sedan,65226c0c27407f3e1fedf959
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,21:00,0,0,Sedan,,65226c0c27407f3e1fedf95a
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,17:29,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf95b
+MANHATTAN,Failure to Yield Right-of-Way,Unspecified,3/26/2022,2:10,1,0,Bike,,65226c0c27407f3e1fedf95c
+BRONX,Driver Inattention/Distraction,Unspecified,3/25/2022,0:00,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf95d
+BRONX,Unsafe Speed,Unspecified,3/26/2022,4:00,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf95e
+QUEENS,Unsafe Speed,,3/26/2022,4:34,0,0,Sedan,,65226c0c27407f3e1fedf95f
+,Failure to Yield Right-of-Way,,3/9/2022,11:56,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf960
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,3/26/2022,14:41,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf961
+QUEENS,Unspecified,Unspecified,3/26/2022,18:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedf962
+,Driver Inattention/Distraction,Unspecified,3/26/2022,13:30,0,0,Sedan,,65226c0c27407f3e1fedf963
+STATEN ISLAND,Traffic Control Disregarded,Unspecified,3/26/2022,13:20,1,0,Station Wagon/Sport Utility Vehicle,4 dr sedan,65226c0c27407f3e1fedf964
+MANHATTAN,Following Too Closely,Unspecified,3/25/2022,21:35,0,0,Taxi,Sedan,65226c0c27407f3e1fedf965
+QUEENS,Unspecified,,3/23/2022,21:00,0,0,Sedan,,65226c0c27407f3e1fedf966
+QUEENS,Unspecified,,3/26/2022,12:00,0,0,Sedan,,65226c0c27407f3e1fedf967
+BROOKLYN,Following Too Closely,Unspecified,3/26/2022,13:28,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf968
+QUEENS,Unsafe Speed,Unspecified,3/26/2022,19:12,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf969
+QUEENS,Unsafe Speed,,3/26/2022,21:29,1,0,Bike,,65226c0c27407f3e1fedf96a
+BRONX,Driver Inattention/Distraction,Driver Inattention/Distraction,3/25/2022,13:21,1,0,Sedan,Sedan,65226c0c27407f3e1fedf96b
+BRONX,Turning Improperly,Unspecified,3/22/2022,8:20,1,0,Sedan,Bike,65226c0c27407f3e1fedf96c
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,3/26/2022,22:30,0,0,Sedan,,65226c0c27407f3e1fedf96d
+,Alcohol Involvement,Driver Inattention/Distraction,3/26/2022,11:20,1,0,Sedan,,65226c0c27407f3e1fedf96e
+QUEENS,Passing or Lane Usage Improper,Unspecified,3/26/2022,18:17,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf96f
+QUEENS,Unspecified,,3/14/2022,10:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf970
+,Driver Inattention/Distraction,Unspecified,3/26/2022,1:30,0,0,Pick-up Truck,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf971
+BRONX,Following Too Closely,Unspecified,3/26/2022,3:23,1,0,Box Truck,Sedan,65226c0c27407f3e1fedf972
+BROOKLYN,Driver Inattention/Distraction,Unspecified,3/26/2022,1:45,0,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf973
+MANHATTAN,Unspecified,,3/5/2022,14:52,0,0,Sedan,,65226c0c27407f3e1fedf974
+,Passing or Lane Usage Improper,Unspecified,3/26/2022,20:27,0,0,Sedan,E-Bike,65226c0c27407f3e1fedf975
+MANHATTAN,Unspecified,,3/26/2022,18:19,0,0,Sedan,,65226c0c27407f3e1fedf976
+QUEENS,Alcohol Involvement,Unspecified,3/26/2022,23:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf977
+BROOKLYN,Unsafe Speed,Unspecified,3/26/2022,18:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedf978
+,Unsafe Speed,,3/23/2022,20:40,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf979
+,Driver Inattention/Distraction,Unspecified,4/24/2022,11:45,0,0,Sedan,,65226c0c27407f3e1fedf97a
+MANHATTAN,Passing or Lane Usage Improper,Unspecified,9/11/2021,12:01,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf97b
+BROOKLYN,Unspecified,Unspecified,9/10/2021,11:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf97c
+MANHATTAN,Unspecified,,9/11/2021,20:15,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf97d
+BROOKLYN,Backing Unsafely,,9/9/2021,8:15,0,0,,,65226c0c27407f3e1fedf97e
+BROOKLYN,Unspecified,Unspecified,12/10/2021,23:07,0,0,Sedan,,65226c0c27407f3e1fedf97f
+,Other Vehicular,,12/10/2021,21:50,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf980
+BROOKLYN,Unspecified,Unspecified,11/27/2021,5:40,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf981
+,Traffic Control Disregarded,Traffic Control Disregarded,12/9/2021,5:15,1,0,Sedan,Sedan,65226c0c27407f3e1fedf982
+BROOKLYN,Unspecified,,12/8/2021,12:58,0,0,Convertible,,65226c0c27407f3e1fedf983
+,Following Too Closely,Unspecified,12/8/2021,17:50,0,0,Tractor Truck Diesel,Sedan,65226c0c27407f3e1fedf984
+QUEENS,Driver Inattention/Distraction,Unspecified,12/10/2021,4:30,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf985
+,Failure to Yield Right-of-Way,,12/10/2021,21:22,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf986
+BRONX,Unsafe Lane Changing,Unspecified,12/10/2021,8:30,0,0,Ambulance,Sedan,65226c0c27407f3e1fedf987
+QUEENS,Driver Inattention/Distraction,Unspecified,12/10/2021,12:15,0,0,Station Wagon/Sport Utility Vehicle,Tanker,65226c0c27407f3e1fedf988
+BROOKLYN,Passing Too Closely,Unspecified,12/8/2021,14:38,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf989
+,Unspecified,Unspecified,12/3/2021,13:40,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf98a
+BRONX,Other Vehicular,Other Vehicular,12/10/2021,8:50,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf98b
+BROOKLYN,Unspecified,,12/9/2021,19:45,0,0,Sedan,,65226c0c27407f3e1fedf98c
+MANHATTAN,Unspecified,Unspecified,12/10/2021,16:07,0,0,Sedan,AMBULANCE,65226c0c27407f3e1fedf98d
+,Following Too Closely,Unspecified,12/8/2021,6:37,0,0,Sedan,Sedan,65226c0c27407f3e1fedf98e
+MANHATTAN,Unsafe Speed,Unspecified,12/10/2021,21:20,0,0,Station Wagon/Sport Utility Vehicle,Taxi,65226c0c27407f3e1fedf98f
+,Failure to Yield Right-of-Way,Unspecified,12/10/2021,23:16,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf990
+,Driver Inattention/Distraction,Unspecified,12/9/2021,17:21,2,0,Taxi,Sedan,65226c0c27407f3e1fedf991
+BROOKLYN,Unspecified,,12/9/2021,7:30,0,0,Sedan,,65226c0c27407f3e1fedf992
+,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,,11/24/2021,23:58,1,0,,,65226c0c27407f3e1fedf993
+MANHATTAN,Following Too Closely,Unspecified,12/9/2021,17:00,1,0,Taxi,Bike,65226c0c27407f3e1fedf994
+BROOKLYN,Unspecified,Unspecified,12/8/2021,8:15,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf995
+,Alcohol Involvement,Unspecified,9/11/2021,2:20,1,0,Pick-up Truck,Convertible,65226c0c27407f3e1fedf996
+,Passing Too Closely,Unspecified,7/9/2021,12:00,0,0,Station Wagon/Sport Utility Vehicle,Box Truck,65226c0c27407f3e1fedf997
+,Unspecified,Unspecified,9/11/2021,15:25,0,0,Sedan,Sedan,65226c0c27407f3e1fedf998
+,Unspecified,,9/10/2021,14:50,0,0,Box Truck,,65226c0c27407f3e1fedf999
+QUEENS,Passing or Lane Usage Improper,Unspecified,7/1/2021,17:45,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf99a
+MANHATTAN,Driver Inexperience,,7/7/2021,13:45,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf99b
+QUEENS,Unspecified,,9/11/2021,12:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf99c
+,Unspecified,Unspecified,7/7/2021,17:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf99d
+QUEENS,Alcohol Involvement,Unspecified,9/11/2021,2:55,0,0,Sedan,Sedan,65226c0c27407f3e1fedf99e
+STATEN ISLAND,Unspecified,,9/11/2021,17:15,1,0,Sedan,,65226c0c27407f3e1fedf99f
+BROOKLYN,Passing Too Closely,Unspecified,9/3/2021,17:14,0,0,Station Wagon/Sport Utility Vehicle,DL,65226c0c27407f3e1fedf9a0
+,Following Too Closely,Unspecified,7/8/2021,12:30,0,0,Taxi,Pick-up Truck,65226c0c27407f3e1fedf9a1
+,Driver Inattention/Distraction,,8/23/2021,11:50,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf9a2
+BRONX,Turning Improperly,Unspecified,9/11/2021,21:34,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9a3
+QUEENS,Passing or Lane Usage Improper,Unspecified,9/11/2021,11:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9a4
+,Reaction to Uninvolved Vehicle,Unspecified,9/6/2021,10:34,1,0,Sedan,Sedan,65226c0c27407f3e1fedf9a5
+,Other Vehicular,Following Too Closely,7/8/2021,15:56,1,0,Sedan,Sedan,65226c0c27407f3e1fedf9a6
+,Passing Too Closely,Unspecified,7/7/2021,23:06,0,0,Sedan,,65226c0c27407f3e1fedf9a7
+,Backing Unsafely,Unspecified,9/11/2021,6:51,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9a8
+,Driver Inattention/Distraction,,9/7/2021,12:30,1,0,Sedan,,65226c0c27407f3e1fedf9a9
+MANHATTAN,Unspecified,,9/11/2021,4:10,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9aa
+,Turning Improperly,Unspecified,7/8/2021,9:25,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9ab
+,Passing Too Closely,Unspecified,9/11/2021,6:40,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9ac
+QUEENS,Unspecified,Unspecified,9/11/2021,17:35,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9ad
+STATEN ISLAND,Lost Consciousness,Unspecified,7/8/2021,17:17,1,0,Sedan,Sedan,65226c0c27407f3e1fedf9ae
+,Unsafe Speed,Unspecified,9/10/2021,3:00,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf9af
+BRONX,Unspecified,Unspecified,9/11/2021,5:59,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9b0
+STATEN ISLAND,Passing or Lane Usage Improper,Unspecified,9/9/2021,11:39,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9b1
+QUEENS,Driver Inattention/Distraction,Unspecified,4/13/2021,17:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9b2
+BROOKLYN,Driver Inattention/Distraction,Unspecified,9/11/2021,17:40,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9b3
+,Following Too Closely,Unspecified,9/11/2021,22:15,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9b4
+BROOKLYN,Unspecified,,9/11/2021,7:15,0,0,Sedan,,65226c0c27407f3e1fedf9b5
+QUEENS,Driver Inattention/Distraction,Unspecified,9/10/2021,17:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9b6
+BROOKLYN,Driver Inexperience,Unspecified,7/8/2021,11:33,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9b7
+,Alcohol Involvement,Unspecified,9/11/2021,21:48,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9b8
+,Following Too Closely,Unspecified,3/26/2022,10:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9b9
+,Traffic Control Disregarded,Unspecified,9/11/2021,19:00,1,0,Taxi,Bike,65226c0c27407f3e1fedf9ba
+BRONX,Following Too Closely,Unspecified,9/11/2021,22:23,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9bb
+QUEENS,Unspecified,,9/11/2021,15:00,1,0,Sedan,,65226c0c27407f3e1fedf9bc
+QUEENS,Failure to Yield Right-of-Way,Unsafe Speed,9/10/2021,10:20,2,0,Sedan,Sedan,65226c0c27407f3e1fedf9bd
+BRONX,Traffic Control Disregarded,Unspecified,9/11/2021,0:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9be
+BRONX,Other Vehicular,,7/6/2021,15:01,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf9bf
+,Driver Inattention/Distraction,Unspecified,7/9/2021,4:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9c0
+BROOKLYN,Unspecified,Unspecified,9/10/2021,8:45,0,0,Sedan,Bus,65226c0c27407f3e1fedf9c1
+,Driver Inattention/Distraction,Unspecified,9/11/2021,11:51,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9c2
+BRONX,Unspecified,Unspecified,9/11/2021,18:50,1,0,Station Wagon/Sport Utility Vehicle,Refrigerated Van,65226c0c27407f3e1fedf9c3
+,Driver Inexperience,Unspecified,7/2/2021,7:10,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9c4
+STATEN ISLAND,Backing Unsafely,Unspecified,9/6/2021,13:26,0,0,Sedan,,65226c0c27407f3e1fedf9c5
+QUEENS,Following Too Closely,Unspecified,9/11/2021,5:30,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9c6
+MANHATTAN,Passing or Lane Usage Improper,Other Vehicular,9/11/2021,12:55,1,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedf9c7
+,Following Too Closely,Unspecified,9/11/2021,14:00,2,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9c8
+,Other Vehicular,Other Vehicular,7/9/2021,12:30,0,0,Box Truck,Sedan,65226c0c27407f3e1fedf9c9
+,Driver Inattention/Distraction,Driver Inattention/Distraction,9/11/2021,13:00,1,0,Sedan,E-Scooter,65226c0c27407f3e1fedf9ca
+BROOKLYN,Backing Unsafely,Unspecified,9/11/2021,15:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9cb
+BROOKLYN,Driver Inattention/Distraction,,7/8/2021,15:30,1,0,Sedan,,65226c0c27407f3e1fedf9cc
+,Passing Too Closely,Unspecified,7/9/2021,11:15,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9cd
+,Lost Consciousness,Unspecified,9/2/2021,10:45,1,0,Sedan,Sedan,65226c0c27407f3e1fedf9ce
+BROOKLYN,Driver Inattention/Distraction,Driver Inattention/Distraction,9/7/2021,17:35,1,0,Flat Bed,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9cf
+BROOKLYN,Following Too Closely,Unspecified,9/11/2021,19:08,0,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9d0
+MANHATTAN,Backing Unsafely,,9/11/2021,10:25,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf9d1
+,Unspecified,,9/11/2021,14:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf9d2
+,Driver Inattention/Distraction,Unspecified,8/29/2021,0:12,1,0,Motorcycle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9d3
+BROOKLYN,Unsafe Speed,Passing or Lane Usage Improper,9/11/2021,23:48,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9d4
+QUEENS,Failure to Yield Right-of-Way,Unspecified,9/11/2021,1:45,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9d5
+BRONX,Driver Inattention/Distraction,Unspecified,7/8/2021,17:13,0,0,Sedan,,65226c0c27407f3e1fedf9d6
+QUEENS,Failure to Yield Right-of-Way,Unspecified,9/9/2021,11:39,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9d7
+BRONX,Driver Inattention/Distraction,Unspecified,7/6/2021,19:00,0,0,Sedan,,65226c0c27407f3e1fedf9d8
+,Passing Too Closely,Unspecified,9/11/2021,17:19,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9d9
+BROOKLYN,Obstruction/Debris,,7/6/2021,18:00,0,0,Sedan,,65226c0c27407f3e1fedf9da
+BROOKLYN,Driver Inexperience,,7/5/2021,17:20,0,0,E-Bike,,65226c0c27407f3e1fedf9db
+,Turning Improperly,Unspecified,9/11/2021,9:10,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9dc
+BROOKLYN,Unspecified,,9/11/2021,21:45,0,0,Sedan,,65226c0c27407f3e1fedf9dd
+BROOKLYN,View Obstructed/Limited,,7/9/2021,6:51,1,0,Sedan,,65226c0c27407f3e1fedf9de
+MANHATTAN,Unspecified,Unspecified,9/11/2021,21:00,1,0,Station Wagon/Sport Utility Vehicle,Bus,65226c0c27407f3e1fedf9df
+BRONX,Unspecified,Unspecified,7/8/2021,14:30,1,0,Sedan,Sedan,65226c0c27407f3e1fedf9e0
+QUEENS,Passing or Lane Usage Improper,Unspecified,9/11/2021,18:38,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9e1
+MANHATTAN,Unspecified,,9/11/2021,15:28,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf9e2
+,Driver Inattention/Distraction,Driver Inattention/Distraction,9/5/2021,16:40,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9e3
+,Lost Consciousness,Unspecified,9/11/2021,5:26,1,0,Sedan,Sedan,65226c0c27407f3e1fedf9e4
+BRONX,Aggressive Driving/Road Rage,Unspecified,9/11/2021,12:30,0,0,Sedan,,65226c0c27407f3e1fedf9e5
+QUEENS,Backing Unsafely,Unspecified,9/10/2021,12:10,0,0,Motorcycle,Sedan,65226c0c27407f3e1fedf9e6
+QUEENS,Unspecified,Unspecified,6/26/2021,10:30,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9e7
+,Unsafe Lane Changing,Unspecified,7/1/2021,21:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9e8
+BROOKLYN,Unspecified,,4/16/2021,17:55,0,0,Sedan,,65226c0c27407f3e1fedf9e9
+MANHATTAN,Driver Inattention/Distraction,Unspecified,9/11/2021,13:10,0,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9ea
+BROOKLYN,Driver Inattention/Distraction,,7/4/2021,0:58,1,0,Sedan,,65226c0c27407f3e1fedf9eb
+QUEENS,Unsafe Speed,,9/11/2021,2:38,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf9ec
+BROOKLYN,Alcohol Involvement,Unspecified,7/4/2021,21:00,1,0,Sedan,E-Bike,65226c0c27407f3e1fedf9ed
+BROOKLYN,Failure to Yield Right-of-Way,Unspecified,9/11/2021,18:00,1,0,Sedan,Sedan,65226c0c27407f3e1fedf9ee
+QUEENS,Unsafe Speed,Unspecified,7/2/2021,16:45,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9ef
+,Traffic Control Disregarded,Other Vehicular,9/11/2021,15:10,0,0,Bike,Sedan,65226c0c27407f3e1fedf9f0
+QUEENS,Failure to Yield Right-of-Way,Unspecified,7/3/2021,10:18,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9f1
+BROOKLYN,Driver Inattention/Distraction,Driver Inattention/Distraction,9/11/2021,14:40,2,0,Sedan,Sedan,65226c0c27407f3e1fedf9f2
+,Unsafe Speed,Unspecified,9/11/2021,2:00,0,0,Station Wagon/Sport Utility Vehicle,4 dr sedan,65226c0c27407f3e1fedf9f3
+,Unspecified,,9/11/2021,23:00,0,0,Sedan,,65226c0c27407f3e1fedf9f4
+BRONX,Unspecified,,7/4/2021,8:00,0,0,Sedan,,65226c0c27407f3e1fedf9f5
+BROOKLYN,Driver Inattention/Distraction,Unspecified,9/11/2021,15:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedf9f6
+QUEENS,Passing Too Closely,Unspecified,9/11/2021,14:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9f7
+BRONX,Turning Improperly,Unspecified,7/8/2021,6:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9f8
+,Unsafe Speed,,8/11/2021,0:01,0,0,Sedan,,65226c0c27407f3e1fedf9f9
+,Passing Too Closely,Unspecified,9/11/2021,9:30,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedf9fa
+,Passing or Lane Usage Improper,Unspecified,9/11/2021,16:40,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9fb
+,Failure to Yield Right-of-Way,Unspecified,9/11/2021,18:05,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9fc
+BROOKLYN,Driver Inattention/Distraction,Unspecified,9/11/2021,2:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedf9fd
+STATEN ISLAND,Driver Inattention/Distraction,Unspecified,9/7/2021,8:03,1,0,E-Bike,Sedan,65226c0c27407f3e1fedf9fe
+QUEENS,Backing Unsafely,Unspecified,9/11/2021,13:53,0,0,Sedan,Sedan,65226c0c27407f3e1fedf9ff
+,Driver Inattention/Distraction,Unspecified,7/8/2021,11:50,2,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa00
+,Driver Inattention/Distraction,Unspecified,9/11/2021,14:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa01
+BROOKLYN,Unspecified,Unspecified,9/11/2021,7:09,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa02
+MANHATTAN,Driver Inexperience,Unspecified,7/8/2021,15:40,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa03
+QUEENS,Driver Inattention/Distraction,Unspecified,9/7/2021,3:00,1,0,Sedan,,65226c0c27407f3e1fedfa04
+QUEENS,Other Vehicular,Unspecified,7/5/2021,6:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa05
+,Unspecified,Unspecified,9/11/2021,10:48,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa06
+,Passing or Lane Usage Improper,Unspecified,9/10/2021,19:15,0,0,Sedan,,65226c0c27407f3e1fedfa07
+,Driver Inattention/Distraction,Unspecified,7/6/2021,9:37,2,0,Box Truck,Box Truck,65226c0c27407f3e1fedfa08
+,Driver Inattention/Distraction,,7/1/2021,15:30,0,0,Sedan,,65226c0c27407f3e1fedfa09
+BRONX,Following Too Closely,Unspecified,7/7/2021,18:04,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa0a
+MANHATTAN,Driver Inattention/Distraction,Unspecified,9/8/2021,17:40,0,0,Box Truck,Sedan,65226c0c27407f3e1fedfa0b
+BROOKLYN,Unspecified,Unspecified,9/11/2021,7:33,1,0,Station Wagon/Sport Utility Vehicle,Taxi,65226c0c27407f3e1fedfa0c
+,Passing or Lane Usage Improper,Unspecified,7/8/2021,11:50,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa0d
+BROOKLYN,Driver Inattention/Distraction,Unspecified,9/11/2021,8:00,0,0,Ambulance,Bike,65226c0c27407f3e1fedfa0e
+MANHATTAN,Driver Inattention/Distraction,,9/8/2021,8:43,1,0,Sedan,,65226c0c27407f3e1fedfa0f
+QUEENS,Unspecified,,9/11/2021,23:00,0,0,Sedan,,65226c0c27407f3e1fedfa10
+QUEENS,Unspecified,,9/9/2021,12:00,1,0,Motorcycle,,65226c0c27407f3e1fedfa11
+QUEENS,Driver Inattention/Distraction,Unspecified,7/7/2021,17:13,1,0,Station Wagon/Sport Utility Vehicle,E-Bike,65226c0c27407f3e1fedfa12
+BRONX,Failure to Yield Right-of-Way,Unspecified,9/11/2021,18:03,2,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa13
+QUEENS,Driver Inexperience,Unspecified,9/9/2021,17:00,0,0,Sedan,,65226c0c27407f3e1fedfa14
+MANHATTAN,Driver Inexperience,,9/8/2021,18:13,0,0,Taxi,,65226c0c27407f3e1fedfa15
+QUEENS,Passing or Lane Usage Improper,Unspecified,9/11/2021,20:50,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa16
+QUEENS,Driver Inexperience,,7/5/2021,0:16,0,0,Sedan,,65226c0c27407f3e1fedfa17
+,Unspecified,Unspecified,9/11/2021,18:21,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa18
+,Following Too Closely,Unspecified,6/29/2021,16:26,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa19
+,Pavement Slippery,,7/9/2021,3:52,0,0,Sedan,,65226c0c27407f3e1fedfa1a
+,Unsafe Lane Changing,Unspecified,7/8/2021,8:50,0,0,Tow Truck / Wrecker,Sedan,65226c0c27407f3e1fedfa1b
+BROOKLYN,Tinted Windows,,7/9/2021,10:38,1,0,Sedan,,65226c0c27407f3e1fedfa1c
+QUEENS,Driver Inattention/Distraction,Unspecified,9/11/2021,17:45,0,0,Sedan,Tow Truck / Wrecker,65226c0c27407f3e1fedfa1d
+BRONX,Passing Too Closely,Unspecified,9/11/2021,1:30,0,0,Dump,Sedan,65226c0c27407f3e1fedfa1e
+BROOKLYN,Driver Inattention/Distraction,,9/11/2021,2:00,1,0,,,65226c0c27407f3e1fedfa1f
+,Following Too Closely,Unspecified,9/11/2021,17:08,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa20
+BROOKLYN,Driver Inattention/Distraction,Unspecified,7/8/2021,23:25,0,0,Station Wagon/Sport Utility Vehicle,Tractor Truck Diesel,65226c0c27407f3e1fedfa21
+BRONX,Aggressive Driving/Road Rage,Aggressive Driving/Road Rage,9/11/2021,1:20,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa22
+,Failure to Yield Right-of-Way,Unspecified,9/10/2021,0:00,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa23
+MANHATTAN,Unsafe Lane Changing,Unspecified,9/8/2021,16:33,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa24
+,Following Too Closely,Unspecified,9/10/2021,11:17,1,0,Taxi,,65226c0c27407f3e1fedfa25
+MANHATTAN,Unspecified,Unspecified,9/10/2021,17:08,1,0,Taxi,Sedan,65226c0c27407f3e1fedfa26
+MANHATTAN,Driver Inattention/Distraction,Unspecified,7/8/2021,17:55,1,0,Motorcycle,,65226c0c27407f3e1fedfa27
+,Driver Inattention/Distraction,Unspecified,9/11/2021,13:35,0,0,Sedan,,65226c0c27407f3e1fedfa28
+BROOKLYN,Fell Asleep,Unspecified,9/11/2021,0:50,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa29
+,Passing Too Closely,Unspecified,9/11/2021,3:00,0,0,Tow Truck / Wrecker,Garbage or Refuse,65226c0c27407f3e1fedfa2a
+MANHATTAN,Unspecified,,9/11/2021,4:41,0,0,Sedan,,65226c0c27407f3e1fedfa2b
+,Passing or Lane Usage Improper,Unspecified,9/11/2021,21:05,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa2c
+,Driver Inattention/Distraction,Unspecified,9/11/2021,20:59,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa2d
+,,,7/4/2021,22:22,1,0,,,65226c0c27407f3e1fedfa2e
+MANHATTAN,Unspecified,Unspecified,9/10/2021,21:03,1,0,Sedan,E-Scooter,65226c0c27407f3e1fedfa2f
+,Following Too Closely,Unspecified,9/10/2021,14:35,1,0,Sedan,Pick-up Truck,65226c0c27407f3e1fedfa30
+BRONX,Unspecified,,6/26/2021,17:23,0,0,Sedan,,65226c0c27407f3e1fedfa31
+,Passing or Lane Usage Improper,Turning Improperly,9/11/2021,23:18,1,0,Sedan,Sedan,65226c0c27407f3e1fedfa32
+BROOKLYN,Driver Inattention/Distraction,Unspecified,9/10/2021,13:10,0,0,Sedan,E-Bike,65226c0c27407f3e1fedfa33
+,Unspecified,Unspecified,9/11/2021,15:45,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa34
+BRONX,Backing Unsafely,Unspecified,7/8/2021,16:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa35
+,Unspecified,,9/2/2021,19:56,0,0,Sedan,,65226c0c27407f3e1fedfa36
+,Following Too Closely,Unspecified,9/11/2021,15:45,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa37
+,Driver Inattention/Distraction,Unspecified,9/7/2021,22:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa38
+QUEENS,Unspecified,Unspecified,6/25/2021,14:35,0,0,Pick-up Truck,,65226c0c27407f3e1fedfa39
+,Unsafe Lane Changing,Unspecified,7/8/2021,18:40,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa3a
+QUEENS,Unspecified,,7/4/2021,4:00,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa3b
+QUEENS,Unsafe Speed,Unspecified,7/8/2021,21:19,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa3c
+BROOKLYN,Driver Inattention/Distraction,Unspecified,9/11/2021,15:01,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa3d
+MANHATTAN,Driver Inattention/Distraction,Unspecified,9/10/2021,19:00,0,0,Sedan,Motorcycle,65226c0c27407f3e1fedfa3e
+,Driver Inexperience,Unspecified,9/11/2021,0:20,3,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa3f
+MANHATTAN,Backing Unsafely,,9/10/2021,10:55,0,0,Sedan,,65226c0c27407f3e1fedfa40
+STATEN ISLAND,Unsafe Speed,Unspecified,9/11/2021,1:39,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa41
+BRONX,Failure to Yield Right-of-Way,Unspecified,9/11/2021,18:16,0,0,E-Bike,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa42
+BROOKLYN,Unspecified,,7/8/2021,12:58,0,0,Sedan,,65226c0c27407f3e1fedfa43
+BROOKLYN,Unspecified,Unspecified,9/11/2021,22:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa44
+BROOKLYN,Unspecified,Unspecified,9/11/2021,18:55,0,0,Tow Truck / Wrecker,Sedan,65226c0c27407f3e1fedfa45
+MANHATTAN,Unsafe Speed,,9/7/2021,12:42,0,0,Sedan,,65226c0c27407f3e1fedfa46
+BRONX,Unsafe Lane Changing,Driver Inattention/Distraction,9/10/2021,17:39,1,0,Station Wagon/Sport Utility Vehicle,E-Bike,65226c0c27407f3e1fedfa47
+,Driver Inattention/Distraction,Failure to Yield Right-of-Way,9/11/2021,19:20,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa48
+BRONX,Passing or Lane Usage Improper,Unspecified,6/30/2021,19:20,0,0,Sedan,,65226c0c27407f3e1fedfa49
+MANHATTAN,Driver Inattention/Distraction,,9/10/2021,20:19,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa4a
+BROOKLYN,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,7/8/2021,13:26,1,0,Pick-up Truck,Bike,65226c0c27407f3e1fedfa4b
+MANHATTAN,Driver Inattention/Distraction,Unspecified,9/11/2021,8:45,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa4c
+BROOKLYN,Unsafe Speed,Unspecified,9/11/2021,19:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa4d
+,Driver Inattention/Distraction,Unspecified,7/4/2021,23:50,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa4e
+QUEENS,Passing Too Closely,Unspecified,7/1/2021,8:10,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa4f
+,Unspecified,Unspecified,9/11/2021,3:00,0,0,Van,Sedan,65226c0c27407f3e1fedfa50
+QUEENS,Driver Inattention/Distraction,Unspecified,3/25/2022,9:55,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa51
+QUEENS,Failure to Yield Right-of-Way,,9/1/2021,19:30,1,0,Sedan,,65226c0c27407f3e1fedfa52
+MANHATTAN,Driver Inattention/Distraction,Driver Inattention/Distraction,9/10/2021,15:20,1,0,Sedan,E-Bike,65226c0c27407f3e1fedfa53
+,Following Too Closely,Unspecified,9/11/2021,15:30,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa54
+MANHATTAN,Driver Inexperience,,9/11/2021,14:34,0,0,Box Truck,,65226c0c27407f3e1fedfa55
+QUEENS,Driver Inattention/Distraction,Unspecified,9/10/2021,9:00,0,0,Pick-up Truck,,65226c0c27407f3e1fedfa56
+,Unspecified,Unspecified,9/11/2021,3:25,0,0,Pick-up Truck,Sedan,65226c0c27407f3e1fedfa57
+BROOKLYN,Driver Inattention/Distraction,Unspecified,9/11/2021,1:00,0,0,Pick-up Truck,Sedan,65226c0c27407f3e1fedfa58
+BRONX,Driver Inattention/Distraction,Unspecified,9/11/2021,11:25,1,0,Sedan,Bike,65226c0c27407f3e1fedfa59
+BROOKLYN,Driver Inexperience,Unspecified,9/11/2021,21:30,2,0,Sedan,Chassis Cab,65226c0c27407f3e1fedfa5a
+BRONX,Driver Inattention/Distraction,Unspecified,7/9/2021,12:30,1,0,E-Bike,E-Bike,65226c0c27407f3e1fedfa5b
+QUEENS,Unspecified,Unspecified,9/5/2021,21:18,5,0,Sedan,Sedan,65226c0c27407f3e1fedfa5c
+BROOKLYN,Driver Inattention/Distraction,Unspecified,9/11/2021,3:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa5d
+,Unsafe Speed,Unspecified,9/11/2021,11:30,3,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa5e
+QUEENS,Unspecified,Unspecified,9/11/2021,21:35,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa5f
+QUEENS,Unspecified,,7/8/2021,16:04,0,0,Sedan,,65226c0c27407f3e1fedfa60
+,Driver Inattention/Distraction,,7/2/2021,14:00,1,0,,,65226c0c27407f3e1fedfa61
+QUEENS,Following Too Closely,Unspecified,9/11/2021,23:20,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa62
+,Unspecified,,7/8/2021,12:25,1,0,Sedan,,65226c0c27407f3e1fedfa63
+MANHATTAN,Passing Too Closely,Unspecified,7/8/2021,15:15,0,0,Sedan,,65226c0c27407f3e1fedfa64
+QUEENS,Failure to Yield Right-of-Way,Unspecified,7/9/2021,12:22,0,0,Bus,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa65
+,Unsafe Speed,Unspecified,9/9/2021,15:15,0,0,Pick-up Truck,Flat Rack,65226c0c27407f3e1fedfa66
+QUEENS,Traffic Control Disregarded,Unspecified,7/9/2021,3:25,0,0,Sedan,,65226c0c27407f3e1fedfa67
+STATEN ISLAND,Animals Action,Unspecified,9/11/2021,2:05,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa68
+BROOKLYN,Passing Too Closely,Unspecified,7/9/2021,0:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa69
+STATEN ISLAND,Driver Inattention/Distraction,Unspecified,9/11/2021,15:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa6a
+,Driver Inattention/Distraction,Unspecified,9/10/2021,21:27,2,0,Sedan,,65226c0c27407f3e1fedfa6b
+,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Failure to Yield Right-of-Way,9/8/2021,10:10,1,0,Sedan,Bike,65226c0c27407f3e1fedfa6c
+,Reaction to Uninvolved Vehicle,,9/11/2021,10:00,1,0,Motorcycle,,65226c0c27407f3e1fedfa6d
+QUEENS,Driver Inattention/Distraction,Following Too Closely,9/11/2021,7:58,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa6e
+MANHATTAN,Driver Inattention/Distraction,Driver Inattention/Distraction,9/11/2021,16:25,0,0,Taxi,Box Truck,65226c0c27407f3e1fedfa6f
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,5/21/2019,22:50,0,0,�MBU,Taxi,65226c0c27407f3e1fedfa70
+,Driver Inattention/Distraction,Unspecified,1/21/2020,15:49,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa71
+BRONX,Unspecified,Unspecified,2/26/2021,14:50,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa72
+,Following Too Closely,Unspecified,3/9/2021,11:00,1,0,Pick-up Truck,Sedan,65226c0c27407f3e1fedfa73
+BROOKLYN,Driver Inexperience,Unspecified,3/31/2021,22:20,1,0,Sedan,Sedan,65226c0c27407f3e1fedfa74
+STATEN ISLAND,Failure to Yield Right-of-Way,Unsafe Speed,4/6/2021,22:58,7,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa75
+,Driver Inattention/Distraction,Unspecified,4/9/2021,14:45,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa76
+,Following Too Closely,Unspecified,4/14/2021,13:00,0,0,Station Wagon/Sport Utility Vehicle,Box Truck,65226c0c27407f3e1fedfa77
+,Brakes Defective,Unspecified,4/14/2021,11:00,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa78
+,Driver Inattention/Distraction,Unspecified,4/16/2021,21:15,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa79
+BRONX,Following Too Closely,Unspecified,4/15/2021,13:30,0,0,Sedan,Ambulance,65226c0c27407f3e1fedfa7a
+,Passing Too Closely,Unspecified,4/14/2021,14:40,0,0,Box Truck,Sedan,65226c0c27407f3e1fedfa7b
+QUEENS,Turning Improperly,Unspecified,4/14/2021,21:43,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa7c
+BRONX,Unspecified,Unspecified,4/16/2021,17:40,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa7d
+,Driver Inexperience,Unspecified,4/16/2021,0:50,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa7e
+BROOKLYN,Unspecified,Unspecified,4/15/2021,10:30,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa7f
+BRONX,Unsafe Speed,Unspecified,4/16/2021,16:35,2,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa80
+BROOKLYN,Following Too Closely,Unspecified,4/15/2021,17:20,1,0,Sedan,Van,65226c0c27407f3e1fedfa81
+MANHATTAN,Backing Unsafely,Unspecified,4/16/2021,21:20,0,0,Sedan,,65226c0c27407f3e1fedfa82
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/16/2021,17:20,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa83
+QUEENS,Driver Inattention/Distraction,Driver Inattention/Distraction,4/15/2021,14:30,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa84
+,Unsafe Speed,Unspecified,9/11/2021,22:57,2,0,PK,Sedan,65226c0c27407f3e1fedfa85
+BROOKLYN,Unspecified,Unspecified,4/16/2021,23:20,3,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa86
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/16/2021,18:15,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa87
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,4/14/2021,13:00,0,0,Pick-up Truck,,65226c0c27407f3e1fedfa88
+QUEENS,Passing Too Closely,Unspecified,6/30/2021,11:47,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa89
+,Driver Inattention/Distraction,Unspecified,4/14/2021,20:14,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa8a
+BROOKLYN,Passing Too Closely,Unspecified,4/14/2021,15:16,1,0,Sedan,Sedan,65226c0c27407f3e1fedfa8b
+,Unspecified,,4/15/2021,19:30,0,0,Sedan,,65226c0c27407f3e1fedfa8c
+,View Obstructed/Limited,Driver Inexperience,4/16/2021,13:15,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa8d
+BRONX,Steering Failure,Unspecified,4/14/2021,21:08,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfa8e
+BROOKLYN,Failure to Yield Right-of-Way,,4/13/2021,20:34,1,0,Sedan,,65226c0c27407f3e1fedfa8f
+QUEENS,Unspecified,,4/13/2021,14:10,0,0,Sedan,,65226c0c27407f3e1fedfa90
+,Unspecified,,4/14/2021,22:00,3,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa91
+BRONX,Traffic Control Disregarded,Unspecified,4/15/2021,12:16,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa92
+BROOKLYN,Unspecified,,4/15/2021,18:15,0,0,Sedan,,65226c0c27407f3e1fedfa93
+,Passing or Lane Usage Improper,Unspecified,4/15/2021,19:30,1,0,Sedan,Sedan,65226c0c27407f3e1fedfa94
+BROOKLYN,Drugs (illegal),Unspecified,4/14/2021,21:04,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa95
+,Other Vehicular,Unsafe Speed,4/14/2021,1:40,0,0,Sedan,Sedan,65226c0c27407f3e1fedfa96
+,Reaction to Uninvolved Vehicle,Unspecified,4/16/2021,18:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa97
+,Following Too Closely,Unspecified,4/14/2021,8:30,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa98
+,Driver Inattention/Distraction,,4/15/2021,12:05,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfa99
+QUEENS,Turning Improperly,Unspecified,4/16/2021,11:00,1,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedfa9a
+QUEENS,Traffic Control Disregarded,Unspecified,4/16/2021,17:00,5,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa9b
+,Unspecified,Unspecified,4/16/2021,12:00,0,0,Box Truck,Dump,65226c0c27407f3e1fedfa9c
+,Unspecified,,4/16/2021,20:27,0,0,Sedan,,65226c0c27407f3e1fedfa9d
+BROOKLYN,Unspecified,Unspecified,4/15/2021,18:25,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa9e
+BROOKLYN,Unspecified,Unspecified,4/12/2021,16:08,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfa9f
+,Aggressive Driving/Road Rage,Unspecified,4/14/2021,11:55,0,0,Sedan,,65226c0c27407f3e1fedfaa0
+,Driver Inattention/Distraction,Unspecified,4/14/2021,1:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfaa1
+,Unsafe Speed,,4/14/2021,3:25,3,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfaa2
+QUEENS,Following Too Closely,Unspecified,4/16/2021,8:05,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfaa3
+BRONX,Driver Inattention/Distraction,,4/15/2021,20:13,1,0,,,65226c0c27407f3e1fedfaa4
+STATEN ISLAND,Failure to Yield Right-of-Way,Unspecified,4/14/2021,16:30,2,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfaa5
+,Passing Too Closely,Unspecified,4/14/2021,20:15,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfaa6
+BROOKLYN,Driver Inattention/Distraction,,4/15/2021,16:37,1,0,Sedan,,65226c0c27407f3e1fedfaa7
+BROOKLYN,Driver Inattention/Distraction,Driver Inattention/Distraction,4/15/2021,6:05,1,0,Sedan,Sedan,65226c0c27407f3e1fedfaa8
+QUEENS,Failure to Yield Right-of-Way,,4/16/2021,8:40,1,0,Sedan,,65226c0c27407f3e1fedfaa9
+BRONX,Turning Improperly,,4/15/2021,20:15,0,0,Ambulance,,65226c0c27407f3e1fedfaaa
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/13/2021,23:00,0,0,Sedan,,65226c0c27407f3e1fedfaab
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/16/2021,20:55,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfaac
+BRONX,Unspecified,,4/15/2021,17:25,0,0,Sedan,,65226c0c27407f3e1fedfaad
+BROOKLYN,Reaction to Uninvolved Vehicle,Driver Inattention/Distraction,4/16/2021,6:45,0,0,Station Wagon/Sport Utility Vehicle,Garbage or Refuse,65226c0c27407f3e1fedfaae
+BRONX,Unspecified,Unspecified,4/10/2021,12:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfaaf
+,Reaction to Uninvolved Vehicle,Unspecified,4/14/2021,15:53,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfab0
+,Backing Unsafely,Unspecified,4/9/2021,17:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfab1
+BROOKLYN,Unspecified,Unspecified,4/14/2021,19:10,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfab2
+QUEENS,Unsafe Speed,Failure to Yield Right-of-Way,4/16/2021,13:55,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfab3
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,0:00,2,0,Station Wagon/Sport Utility Vehicle,PK,65226c0c27407f3e1fedfab4
+QUEENS,Unspecified,Unspecified,9/11/2021,20:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfab5
+,Driver Inattention/Distraction,Unspecified,4/16/2021,16:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfab6
+MANHATTAN,Failure to Yield Right-of-Way,,4/15/2021,22:25,1,0,Sedan,,65226c0c27407f3e1fedfab7
+MANHATTAN,Unspecified,Unspecified,4/14/2021,10:09,0,0,Tow Truck / Wrecker,Dump,65226c0c27407f3e1fedfab8
+BROOKLYN,Driver Inexperience,Unspecified,4/16/2021,0:01,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfab9
+MANHATTAN,Driver Inattention/Distraction,,4/15/2021,20:45,0,0,Sedan,,65226c0c27407f3e1fedfaba
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,7:00,0,0,Sedan,,65226c0c27407f3e1fedfabb
+BROOKLYN,Following Too Closely,Unspecified,4/15/2021,10:45,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfabc
+STATEN ISLAND,Failure to Yield Right-of-Way,Unspecified,4/16/2021,12:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfabd
+,Following Too Closely,Following Too Closely,4/14/2021,6:50,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfabe
+BROOKLYN,Unspecified,Unspecified,4/14/2021,3:39,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfabf
+,Unspecified,,4/16/2021,22:00,0,0,Sedan,,65226c0c27407f3e1fedfac0
+,Failure to Yield Right-of-Way,Unspecified,4/14/2021,0:00,1,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedfac1
+,Driver Inattention/Distraction,Unspecified,4/15/2021,19:10,0,0,Sedan,,65226c0c27407f3e1fedfac2
+,Driver Inattention/Distraction,Unspecified,4/14/2021,13:35,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfac3
+BROOKLYN,Failure to Yield Right-of-Way,Unspecified,4/16/2021,15:05,0,0,Sedan,Sedan,65226c0c27407f3e1fedfac4
+BRONX,Failure to Yield Right-of-Way,Unspecified,4/14/2021,9:33,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfac5
+,Unspecified,Unspecified,4/13/2021,16:05,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfac6
+,Backing Unsafely,Unspecified,4/15/2021,9:27,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfac7
+BROOKLYN,Passing Too Closely,Unspecified,4/16/2021,11:45,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfac8
+,Driver Inattention/Distraction,Unspecified,4/11/2021,8:56,0,0,Sedan,Sedan,65226c0c27407f3e1fedfac9
+QUEENS,Driver Inattention/Distraction,Unspecified,4/16/2021,13:02,0,0,Sedan,Sedan,65226c0c27407f3e1fedfaca
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,0:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfacb
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/16/2021,5:30,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfacc
+MANHATTAN,Failure to Yield Right-of-Way,,4/16/2021,20:26,1,0,,,65226c0c27407f3e1fedfacd
+BRONX,Unspecified,,4/13/2021,9:00,0,0,Sedan,,65226c0c27407f3e1fedface
+,Passing or Lane Usage Improper,Unspecified,4/15/2021,11:45,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfacf
+MANHATTAN,Reaction to Uninvolved Vehicle,Unspecified,4/1/2021,0:10,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfad0
+BRONX,Passing Too Closely,Unspecified,4/15/2021,11:41,0,0,Sedan,,65226c0c27407f3e1fedfad1
+,Driver Inattention/Distraction,Unspecified,4/15/2021,2:00,0,0,Sedan,Pick-up Truck,65226c0c27407f3e1fedfad2
+BRONX,Steering Failure,Unspecified,4/15/2021,0:05,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfad3
+BRONX,Unspecified,,4/16/2021,11:30,0,0,Sedan,,65226c0c27407f3e1fedfad4
+,Fell Asleep,Unspecified,4/16/2021,15:30,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfad5
+,Driver Inattention/Distraction,Unspecified,4/14/2021,15:00,0,0,Sedan,Taxi,65226c0c27407f3e1fedfad6
+MANHATTAN,Driver Inattention/Distraction,,4/14/2021,8:03,1,0,Taxi,,65226c0c27407f3e1fedfad7
+QUEENS,Driver Inattention/Distraction,Unspecified,4/16/2021,7:45,0,0,Sedan,,65226c0c27407f3e1fedfad8
+STATEN ISLAND,View Obstructed/Limited,Unspecified,4/14/2021,6:45,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfad9
+,Driver Inattention/Distraction,Unspecified,4/14/2021,22:43,0,0,Pick-up Truck,Tow Truck / Wrecker,65226c0c27407f3e1fedfada
+,Driver Inattention/Distraction,Unspecified,4/15/2021,16:55,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfadb
+BRONX,Backing Unsafely,Unspecified,4/14/2021,18:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfadc
+MANHATTAN,Failure to Yield Right-of-Way,Turning Improperly,4/15/2021,12:26,2,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfadd
+BRONX,Unspecified,,9/11/2021,22:15,1,0,Motorcycle,,65226c0c27407f3e1fedfade
+MANHATTAN,Driver Inexperience,Unspecified,4/15/2021,8:10,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfadf
+BROOKLYN,Unspecified,,4/15/2021,16:00,0,0,Sedan,,65226c0c27407f3e1fedfae0
+QUEENS,Driver Inattention/Distraction,Driver Inattention/Distraction,4/14/2021,16:00,1,0,Station Wagon/Sport Utility Vehicle,E-Scooter,65226c0c27407f3e1fedfae1
+BROOKLYN,Unspecified,Unspecified,4/15/2021,18:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfae2
+BROOKLYN,Unspecified,Unspecified,4/16/2021,14:56,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfae3
+STATEN ISLAND,Unspecified,,4/14/2021,17:30,0,0,Sedan,,65226c0c27407f3e1fedfae4
+BROOKLYN,Unspecified,,4/14/2021,7:15,0,0,Sedan,,65226c0c27407f3e1fedfae5
+BROOKLYN,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,4/14/2021,20:10,0,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedfae6
+MANHATTAN,Unspecified,,4/15/2021,9:28,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfae7
+QUEENS,Driver Inattention/Distraction,,4/14/2021,9:05,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfae8
+,Driver Inattention/Distraction,Unspecified,4/14/2021,10:49,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfae9
+BRONX,Passing Too Closely,Unspecified,4/16/2021,14:30,0,0,Sedan,,65226c0c27407f3e1fedfaea
+BRONX,Alcohol Involvement,Unspecified,4/16/2021,18:05,0,0,Sedan,Taxi,65226c0c27407f3e1fedfaeb
+BRONX,Driver Inexperience,Unspecified,4/14/2021,0:00,0,0,Sedan,E-Bike,65226c0c27407f3e1fedfaec
+MANHATTAN,Unspecified,,4/15/2021,15:37,0,0,Sedan,,65226c0c27407f3e1fedfaed
+BRONX,Failure to Yield Right-of-Way,Driver Inexperience,4/14/2021,17:20,0,0,E-Bike,Sedan,65226c0c27407f3e1fedfaee
+,Driver Inexperience,Unspecified,4/14/2021,23:17,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfaef
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/16/2021,9:25,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfaf0
+BROOKLYN,Unspecified,Unspecified,4/15/2021,16:00,1,0,Van,Sedan,65226c0c27407f3e1fedfaf1
+BRONX,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,4/13/2021,17:55,1,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedfaf2
+BROOKLYN,Backing Unsafely,Unspecified,4/16/2021,21:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfaf3
+QUEENS,Failure to Yield Right-of-Way,,4/15/2021,10:30,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfaf4
+BRONX,View Obstructed/Limited,Unspecified,4/15/2021,23:36,0,0,Ambulance,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfaf5
+QUEENS,Driver Inattention/Distraction,Unspecified,4/15/2021,0:00,0,0,Sedan,,65226c0c27407f3e1fedfaf6
+,Passing or Lane Usage Improper,Passing or Lane Usage Improper,4/15/2021,21:33,0,0,Sedan,Sedan,65226c0c27407f3e1fedfaf7
+BROOKLYN,Driver Inattention/Distraction,Driver Inattention/Distraction,4/14/2021,19:45,1,0,Sedan,Bike,65226c0c27407f3e1fedfaf8
+MANHATTAN,Passing or Lane Usage Improper,Unspecified,4/14/2021,7:45,2,0,Station Wagon/Sport Utility Vehicle,Motorcycle,65226c0c27407f3e1fedfaf9
+QUEENS,Driver Inattention/Distraction,Unspecified,4/14/2021,12:30,0,0,Sedan,,65226c0c27407f3e1fedfafa
+,Traffic Control Disregarded,Driver Inattention/Distraction,4/16/2021,8:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfafb
+,Failure to Yield Right-of-Way,Unspecified,4/14/2021,11:15,2,0,Flat Bed,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfafc
+BROOKLYN,Driver Inattention/Distraction,,4/15/2021,15:18,0,1,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfafd
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,17:50,0,0,Sedan,Sedan,65226c0c27407f3e1fedfafe
+MANHATTAN,Unspecified,,4/14/2021,10:29,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfaff
+BRONX,Passing or Lane Usage Improper,Unspecified,4/15/2021,20:02,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb00
+,Driver Inattention/Distraction,Driver Inattention/Distraction,4/14/2021,19:20,1,0,Sedan,Motorcycle,65226c0c27407f3e1fedfb01
+BRONX,Unspecified,,4/14/2021,19:00,0,0,Sedan,,65226c0c27407f3e1fedfb02
+,Other Vehicular,Other Vehicular,7/8/2021,19:55,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb03
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,22:21,0,0,Moped,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb04
+,Turning Improperly,Driver Inattention/Distraction,4/15/2021,15:25,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb05
+,Unsafe Speed,,4/14/2021,11:30,1,0,Moped,,65226c0c27407f3e1fedfb06
+BRONX,Unspecified,Unspecified,4/16/2021,23:14,3,0,Sedan,Sedan,65226c0c27407f3e1fedfb07
+,Following Too Closely,Unspecified,4/13/2021,9:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb08
+,Failure to Yield Right-of-Way,,4/16/2021,13:59,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb09
+MANHATTAN,Backing Unsafely,Unspecified,4/14/2021,6:35,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb0a
+,Alcohol Involvement,,4/15/2021,22:36,4,1,Sedan,,65226c0c27407f3e1fedfb0b
+BROOKLYN,Driver Inexperience,Unspecified,4/16/2021,14:50,2,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb0c
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,18:35,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb0d
+BROOKLYN,Driver Inattention/Distraction,Driver Inattention/Distraction,4/13/2021,10:30,0,0,Tractor Truck Diesel,Sedan,65226c0c27407f3e1fedfb0e
+BROOKLYN,Passing or Lane Usage Improper,Following Too Closely,4/14/2021,6:55,0,0,Sedan,Tractor Truck Gasoline,65226c0c27407f3e1fedfb0f
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/14/2021,16:58,1,0,Sedan,Sedan,65226c0c27407f3e1fedfb10
+,Passing or Lane Usage Improper,Unspecified,4/12/2021,18:30,0,0,Sedan,,65226c0c27407f3e1fedfb11
+,Unspecified,,4/16/2021,12:10,0,0,Box Truck,,65226c0c27407f3e1fedfb12
+BRONX,Unspecified,,4/14/2021,9:00,0,0,Sedan,,65226c0c27407f3e1fedfb13
+QUEENS,Unspecified,Unspecified,4/14/2021,17:00,2,0,Sedan,Sedan,65226c0c27407f3e1fedfb14
+MANHATTAN,Turning Improperly,Turning Improperly,4/13/2021,13:14,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb15
+QUEENS,Traffic Control Disregarded,Unspecified,4/14/2021,2:25,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb16
+QUEENS,Driver Inattention/Distraction,Unspecified,4/15/2021,16:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb17
+,Following Too Closely,Unspecified,4/16/2021,11:35,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb18
+MANHATTAN,Backing Unsafely,Unspecified,4/16/2021,12:26,1,0,Station Wagon/Sport Utility Vehicle,Bus,65226c0c27407f3e1fedfb19
+QUEENS,Unsafe Speed,Unspecified,4/16/2021,0:30,1,0,Sedan,Bike,65226c0c27407f3e1fedfb1a
+,Following Too Closely,Unspecified,4/14/2021,17:55,0,0,Sedan,Motorbike,65226c0c27407f3e1fedfb1b
+BRONX,Passing Too Closely,Unspecified,4/14/2021,23:36,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb1c
+QUEENS,Passing or Lane Usage Improper,Unspecified,4/15/2021,20:00,0,0,AMBULANCE,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb1d
+,Unspecified,Unspecified,4/16/2021,6:00,0,0,,,65226c0c27407f3e1fedfb1e
+QUEENS,Passing or Lane Usage Improper,Unspecified,4/15/2021,15:10,1,0,Bike,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb1f
+,Passing or Lane Usage Improper,Unspecified,4/16/2021,20:00,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb20
+BRONX,Unspecified,,4/14/2021,6:13,0,0,Sedan,,65226c0c27407f3e1fedfb21
+BROOKLYN,Unspecified,,4/15/2021,14:41,1,0,Sedan,,65226c0c27407f3e1fedfb22
+BROOKLYN,Failure to Yield Right-of-Way,,4/14/2021,11:54,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb23
+,Reaction to Uninvolved Vehicle,Unspecified,4/16/2021,11:50,0,0,Station Wagon/Sport Utility Vehicle,Chassis Cab,65226c0c27407f3e1fedfb24
+,Unspecified,Unspecified,4/14/2021,14:00,0,0,Station Wagon/Sport Utility Vehicle,Van,65226c0c27407f3e1fedfb25
+,Unsafe Lane Changing,Unspecified,4/16/2021,23:55,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb26
+QUEENS,Driver Inattention/Distraction,Unspecified,4/16/2021,14:30,0,0,Sedan,Box Truck,65226c0c27407f3e1fedfb27
+MANHATTAN,Unspecified,,4/15/2021,23:00,0,0,Sedan,,65226c0c27407f3e1fedfb28
+BRONX,Unspecified,,9/11/2021,11:30,0,0,Sedan,,65226c0c27407f3e1fedfb29
+,Following Too Closely,Unspecified,4/15/2021,18:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb2a
+BROOKLYN,Driver Inexperience,Unspecified,4/14/2021,20:19,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb2b
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,14:36,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb2c
+,Other Vehicular,Other Vehicular,4/14/2021,11:16,1,0,Station Wagon/Sport Utility Vehicle,Dump,65226c0c27407f3e1fedfb2d
+,Passing or Lane Usage Improper,Unspecified,4/15/2021,10:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb2e
+BRONX,Driver Inattention/Distraction,Unspecified,4/12/2021,21:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb2f
+QUEENS,Driver Inattention/Distraction,Driver Inattention/Distraction,4/15/2021,14:06,2,0,Station Wagon/Sport Utility Vehicle,Bus,65226c0c27407f3e1fedfb30
+,Following Too Closely,Following Too Closely,4/16/2021,7:00,1,0,Sedan,Sedan,65226c0c27407f3e1fedfb31
+BROOKLYN,Unspecified,Unspecified,4/16/2021,15:21,0,0,Taxi,,65226c0c27407f3e1fedfb32
+QUEENS,Driver Inattention/Distraction,,4/15/2021,0:40,1,0,Sedan,,65226c0c27407f3e1fedfb33
+STATEN ISLAND,Unspecified,,4/15/2021,18:00,0,0,Sedan,,65226c0c27407f3e1fedfb34
+,Failure to Yield Right-of-Way,Unspecified,9/11/2021,16:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb35
+,Passing or Lane Usage Improper,Driver Inattention/Distraction,4/15/2021,8:40,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb36
+BRONX,Driver Inattention/Distraction,View Obstructed/Limited,4/16/2021,17:25,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb37
+BROOKLYN,Unspecified,,4/16/2021,6:40,0,0,Sedan,,65226c0c27407f3e1fedfb38
+,Following Too Closely,Following Too Closely,4/15/2021,14:00,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb39
+QUEENS,Failure to Yield Right-of-Way,Unspecified,4/15/2021,11:00,1,0,Sedan,Sedan,65226c0c27407f3e1fedfb3a
+BRONX,Passing Too Closely,Unspecified,4/14/2021,9:31,0,0,Station Wagon/Sport Utility Vehicle,Bus,65226c0c27407f3e1fedfb3b
+,Driver Inattention/Distraction,Unspecified,4/14/2021,12:40,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb3c
+BROOKLYN,Unspecified,,4/8/2021,21:52,0,0,Sedan,,65226c0c27407f3e1fedfb3d
+,Passing or Lane Usage Improper,Unspecified,4/14/2021,8:58,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb3e
+,Following Too Closely,Unspecified,4/9/2021,1:15,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb3f
+BROOKLYN,Turning Improperly,,4/14/2021,17:30,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb40
+,Driver Inattention/Distraction,Unspecified,4/15/2021,0:00,0,0,Sedan,,65226c0c27407f3e1fedfb41
+QUEENS,Unspecified,Unspecified,4/14/2021,8:30,0,0,Sedan,,65226c0c27407f3e1fedfb42
+MANHATTAN,Passing Too Closely,Unspecified,4/5/2021,16:21,3,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb43
+BROOKLYN,Failure to Yield Right-of-Way,Unsafe Speed,4/14/2021,10:40,1,0,Taxi,Sedan,65226c0c27407f3e1fedfb44
+BROOKLYN,Unspecified,Unspecified,4/16/2021,8:30,0,0,Trailer,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb45
+BROOKLYN,View Obstructed/Limited,View Obstructed/Limited,7/8/2021,16:45,1,0,Sedan,Bike,65226c0c27407f3e1fedfb46
+BROOKLYN,Unspecified,Unspecified,4/16/2021,18:50,0,0,Sedan,Bike,65226c0c27407f3e1fedfb47
+BROOKLYN,Following Too Closely,Unspecified,4/16/2021,15:23,1,0,Sedan,Sedan,65226c0c27407f3e1fedfb48
+BROOKLYN,Pavement Slippery,Unspecified,4/15/2021,17:55,2,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb49
+MANHATTAN,Unspecified,Unspecified,4/14/2021,0:42,0,0,Taxi,Sedan,65226c0c27407f3e1fedfb4a
+MANHATTAN,Driver Inattention/Distraction,,4/14/2021,12:30,1,0,Van,,65226c0c27407f3e1fedfb4b
+BRONX,Unspecified,,4/15/2021,8:30,0,0,Bus,,65226c0c27407f3e1fedfb4c
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,18:36,2,0,Sedan,Sedan,65226c0c27407f3e1fedfb4d
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,13:45,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb4e
+BROOKLYN,Unspecified,Unspecified,4/14/2021,19:46,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb4f
+,Following Too Closely,Unspecified,4/13/2021,17:11,0,0,Sedan,Box Truck,65226c0c27407f3e1fedfb50
+,Unsafe Speed,Unspecified,4/15/2021,16:18,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb51
+BROOKLYN,Backing Unsafely,Unspecified,4/15/2021,12:40,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb52
+,Failure to Yield Right-of-Way,Unspecified,4/16/2021,17:45,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb53
+BROOKLYN,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,,4/15/2021,20:00,1,0,Taxi,,65226c0c27407f3e1fedfb54
+,Unsafe Lane Changing,Unspecified,4/15/2021,11:45,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb55
+MANHATTAN,Unspecified,Unspecified,4/5/2021,16:27,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb56
+,Passing or Lane Usage Improper,Unspecified,4/14/2021,13:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb57
+,Pavement Defective,,4/14/2021,18:56,1,0,Motorcycle,,65226c0c27407f3e1fedfb58
+,Unspecified,Unspecified,4/16/2021,9:10,0,0,Station Wagon/Sport Utility Vehicle,Box Truck,65226c0c27407f3e1fedfb59
+,Unspecified,,4/15/2021,1:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb5a
+,Backing Unsafely,Unspecified,12/10/2021,12:15,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb5b
+,Other Lighting Defects,Unspecified,4/12/2021,6:00,0,0,Garbage or Refuse,Sedan,65226c0c27407f3e1fedfb5c
+,Unspecified,,4/14/2021,19:50,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb5d
+BRONX,Unspecified,Unspecified,4/16/2021,11:30,0,0,Sedan,Taxi,65226c0c27407f3e1fedfb5e
+,Reaction to Uninvolved Vehicle,,4/16/2021,23:45,0,0,Pick-up Truck,,65226c0c27407f3e1fedfb5f
+BRONX,Driver Inattention/Distraction,Unspecified,4/11/2021,18:45,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb60
+,Failure to Yield Right-of-Way,Unspecified,4/16/2021,8:30,1,0,Sedan,Bike,65226c0c27407f3e1fedfb61
+BROOKLYN,Unspecified,,4/15/2021,19:39,1,0,,,65226c0c27407f3e1fedfb62
+BROOKLYN,Following Too Closely,Turning Improperly,4/14/2021,21:00,2,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb63
+,Unspecified,Unspecified,4/16/2021,19:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb64
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,23:30,0,0,Van,Sedan,65226c0c27407f3e1fedfb65
+,Driver Inattention/Distraction,Driver Inattention/Distraction,4/15/2021,17:11,1,0,Sedan,,65226c0c27407f3e1fedfb66
+QUEENS,Passing or Lane Usage Improper,,4/15/2021,2:00,0,0,Box Truck,,65226c0c27407f3e1fedfb67
+MANHATTAN,Unspecified,,4/16/2021,19:54,0,0,Taxi,,65226c0c27407f3e1fedfb68
+BRONX,Unspecified,Unspecified,4/8/2021,9:21,0,0,Sedan,Pick-up Truck,65226c0c27407f3e1fedfb69
+BROOKLYN,Unspecified,,4/16/2021,9:50,0,0,Sedan,,65226c0c27407f3e1fedfb6a
+,Driver Inattention/Distraction,Unspecified,4/16/2021,12:10,0,0,Station Wagon/Sport Utility Vehicle,Box Truck,65226c0c27407f3e1fedfb6b
+,Driver Inattention/Distraction,Unspecified,4/14/2021,8:40,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb6c
+,Unsafe Lane Changing,Unspecified,4/16/2021,23:25,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb6d
+,Unspecified,,4/14/2021,20:25,2,0,Sedan,,65226c0c27407f3e1fedfb6e
+BROOKLYN,Failure to Yield Right-of-Way,Unspecified,4/15/2021,21:04,2,0,Taxi,,65226c0c27407f3e1fedfb6f
+BROOKLYN,Driver Inattention/Distraction,Oversized Vehicle,4/9/2021,12:00,0,0,Sedan,Dump,65226c0c27407f3e1fedfb70
+BROOKLYN,Brakes Defective,Unspecified,4/16/2021,10:05,1,0,Pick-up Truck,Pick-up Truck,65226c0c27407f3e1fedfb71
+,Fell Asleep,,4/14/2021,7:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb72
+QUEENS,Driver Inattention/Distraction,Unspecified,4/15/2021,8:23,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb73
+QUEENS,Driver Inattention/Distraction,Unspecified,4/15/2021,12:00,0,0,Station Wagon/Sport Utility Vehicle,Box Truck,65226c0c27407f3e1fedfb74
+,Traffic Control Disregarded,Unspecified,4/14/2021,14:10,0,0,SCHOOL BUS,Sedan,65226c0c27407f3e1fedfb75
+,Unspecified,Unspecified,4/14/2021,23:10,2,0,Sedan,Sedan,65226c0c27407f3e1fedfb76
+QUEENS,Obstruction/Debris,Driver Inexperience,9/11/2021,10:59,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb77
+BRONX,Oversized Vehicle,Unspecified,4/15/2021,12:30,0,0,Sedan,Tractor Truck Diesel,65226c0c27407f3e1fedfb78
+QUEENS,Animals Action,,4/14/2021,18:45,0,0,Motorcycle,,65226c0c27407f3e1fedfb79
+BROOKLYN,Passing Too Closely,Passing Too Closely,3/20/2021,15:58,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb7a
+,Unspecified,Unspecified,4/14/2021,11:50,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb7b
+QUEENS,Driver Inattention/Distraction,Unspecified,4/16/2021,8:41,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb7c
+,Failure to Yield Right-of-Way,Driver Inattention/Distraction,4/14/2021,13:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb7d
+BROOKLYN,Traffic Control Disregarded,Unspecified,4/14/2021,0:00,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb7e
+,Passing Too Closely,Unspecified,4/9/2021,10:15,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb7f
+BROOKLYN,Unspecified,Unspecified,4/14/2021,15:05,1,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedfb80
+QUEENS,Passing Too Closely,Unspecified,4/16/2021,0:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb81
+,Driver Inattention/Distraction,Unspecified,4/14/2021,18:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb82
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/15/2021,12:17,1,0,Sedan,Concrete Mixer,65226c0c27407f3e1fedfb83
+BRONX,Driver Inattention/Distraction,,4/15/2021,10:37,1,0,Sedan,,65226c0c27407f3e1fedfb84
+QUEENS,Failure to Yield Right-of-Way,Unspecified,4/14/2021,19:15,0,0,Station Wagon/Sport Utility Vehicle,Multi-Wheeled Vehicle,65226c0c27407f3e1fedfb85
+BROOKLYN,Unspecified,Unspecified,4/16/2021,21:30,0,0,Sedan,Bike,65226c0c27407f3e1fedfb86
+QUEENS,Passing or Lane Usage Improper,Unspecified,4/11/2021,11:50,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb87
+MANHATTAN,Passing Too Closely,Unspecified,4/15/2021,9:57,0,0,Sedan,Box Truck,65226c0c27407f3e1fedfb88
+,Unspecified,Unspecified,4/15/2021,13:07,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb89
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,11:30,1,0,Taxi,Sedan,65226c0c27407f3e1fedfb8a
+,Passing or Lane Usage Improper,Unspecified,4/13/2021,7:25,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb8b
+BRONX,Passing or Lane Usage Improper,Unspecified,4/16/2021,18:03,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb8c
+,Unsafe Lane Changing,Following Too Closely,4/16/2021,21:00,0,0,Sedan,Tractor Truck Gasoline,65226c0c27407f3e1fedfb8d
+,Driver Inattention/Distraction,,4/16/2021,10:40,1,0,Sedan,,65226c0c27407f3e1fedfb8e
+MANHATTAN,Failure to Yield Right-of-Way,Unspecified,4/16/2021,20:07,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb8f
+,Following Too Closely,Unspecified,4/16/2021,12:42,2,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb90
+BROOKLYN,Unspecified,,4/15/2021,22:22,0,0,Sedan,,65226c0c27407f3e1fedfb91
+,Unsafe Lane Changing,Unspecified,4/16/2021,18:40,1,0,Sedan,E-Bike,65226c0c27407f3e1fedfb92
+BROOKLYN,Unsafe Lane Changing,Unspecified,4/15/2021,12:38,1,0,Sedan,Sedan,65226c0c27407f3e1fedfb93
+QUEENS,Unspecified,Unspecified,4/14/2021,12:20,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb94
+,Failure to Yield Right-of-Way,,4/14/2021,20:50,1,0,Sedan,,65226c0c27407f3e1fedfb95
+MANHATTAN,Turning Improperly,Unspecified,4/14/2021,2:30,0,0,Sedan,,65226c0c27407f3e1fedfb96
+BROOKLYN,Unspecified,Unspecified,4/16/2021,12:38,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfb97
+,Passing or Lane Usage Improper,Unspecified,4/15/2021,13:31,0,0,Pick-up Truck,Box Truck,65226c0c27407f3e1fedfb98
+,Following Too Closely,Unspecified,4/15/2021,15:20,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb99
+,Passing Too Closely,Unspecified,4/16/2021,15:00,0,0,Box Truck,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfb9a
+,Traffic Control Disregarded,Unspecified,4/16/2021,12:50,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfb9b
+BRONX,Outside Car Distraction,Driver Inattention/Distraction,4/6/2021,8:50,0,0,Sedan,Taxi,65226c0c27407f3e1fedfb9c
+QUEENS,Unspecified,Unspecified,4/15/2021,0:00,0,0,Sedan,,65226c0c27407f3e1fedfb9d
+MANHATTAN,Turning Improperly,Turning Improperly,4/1/2021,4:46,0,0,Sedan,Sedan,65226c0c27407f3e1fedfb9e
+BRONX,Unspecified,,4/14/2021,22:17,0,0,Sedan,,65226c0c27407f3e1fedfb9f
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/16/2021,14:35,0,0,Lift Boom,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfba0
+,Alcohol Involvement,,4/14/2021,2:09,1,0,Sedan,,65226c0c27407f3e1fedfba1
+QUEENS,Reaction to Uninvolved Vehicle,Following Too Closely,4/14/2021,15:25,1,0,Sedan,Motorcycle,65226c0c27407f3e1fedfba2
+BROOKLYN,Unspecified,Unspecified,4/16/2021,10:00,0,0,Sedan,,65226c0c27407f3e1fedfba3
+BROOKLYN,Unspecified,Unspecified,4/14/2021,13:40,2,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfba4
+QUEENS,Driver Inattention/Distraction,Unspecified,4/16/2021,10:10,0,0,Sedan,,65226c0c27407f3e1fedfba5
+QUEENS,Driver Inattention/Distraction,,4/14/2021,11:46,1,0,Bike,,65226c0c27407f3e1fedfba6
+,Driver Inattention/Distraction,,4/6/2021,16:00,1,0,Bus,,65226c0c27407f3e1fedfba7
+,Unspecified,Unspecified,9/10/2021,0:00,1,0,Sedan,Sedan,65226c0c27407f3e1fedfba8
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,13:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfba9
+STATEN ISLAND,Unspecified,Unspecified,4/14/2021,13:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbaa
+MANHATTAN,Reaction to Uninvolved Vehicle,Unspecified,4/14/2021,21:24,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbab
+,Following Too Closely,Following Too Closely,4/13/2021,20:15,2,0,Station Wagon/Sport Utility Vehicle,Pick-up Truck,65226c0c27407f3e1fedfbac
+,Passing Too Closely,,4/15/2021,10:30,1,0,Sedan,,65226c0c27407f3e1fedfbad
+QUEENS,Reaction to Uninvolved Vehicle,Unspecified,4/14/2021,23:30,6,0,Taxi,Sedan,65226c0c27407f3e1fedfbae
+,Unspecified,,4/15/2021,19:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbaf
+MANHATTAN,Unsafe Lane Changing,Unspecified,4/14/2021,4:35,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbb0
+BRONX,Unspecified,Unspecified,4/14/2021,23:46,2,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbb1
+BROOKLYN,Illnes,,4/15/2021,12:30,1,0,Sedan,,65226c0c27407f3e1fedfbb2
+MANHATTAN,Unsafe Speed,Unspecified,4/4/2021,21:43,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbb3
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/15/2021,13:18,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbb4
+QUEENS,Following Too Closely,Unspecified,4/14/2021,13:36,1,0,Pick-up Truck,Sedan,65226c0c27407f3e1fedfbb5
+QUEENS,Unsafe Speed,Unspecified,4/16/2021,0:30,0,0,Sedan,,65226c0c27407f3e1fedfbb6
+,Unspecified,Unspecified,4/11/2021,13:40,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfbb7
+QUEENS,Alcohol Involvement,Unspecified,4/16/2021,17:50,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbb8
+BRONX,Unsafe Speed,Unspecified,4/16/2021,16:01,0,0,Sedan,,65226c0c27407f3e1fedfbb9
+BROOKLYN,Unspecified,,3/28/2021,18:30,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbba
+QUEENS,Failure to Yield Right-of-Way,,4/12/2021,20:00,1,0,Sedan,,65226c0c27407f3e1fedfbbb
+,Unsafe Speed,Unspecified,4/2/2021,21:15,0,0,Sedan,,65226c0c27407f3e1fedfbbc
+,Following Too Closely,Unspecified,4/16/2021,15:05,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbbd
+BROOKLYN,Failure to Yield Right-of-Way,Unspecified,4/16/2021,15:45,1,0,Sedan,Bike,65226c0c27407f3e1fedfbbe
+MANHATTAN,Driver Inattention/Distraction,,4/15/2021,8:20,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbbf
+BROOKLYN,Unspecified,Unspecified,4/10/2021,19:09,0,0,Sedan,fire truck,65226c0c27407f3e1fedfbc0
+,Following Too Closely,Unspecified,4/12/2021,6:55,1,0,Station Wagon/Sport Utility Vehicle,Chassis Cab,65226c0c27407f3e1fedfbc1
+BROOKLYN,Unspecified,Unspecified,4/15/2021,18:20,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfbc2
+,Driver Inattention/Distraction,Unspecified,4/11/2021,1:36,0,0,Sedan,E-Scooter,65226c0c27407f3e1fedfbc3
+,Passing Too Closely,Unspecified,9/11/2021,4:27,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbc4
+,Passing or Lane Usage Improper,Passing or Lane Usage Improper,4/16/2021,22:42,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbc5
+MANHATTAN,Driver Inattention/Distraction,,4/14/2021,23:32,1,0,Sedan,,65226c0c27407f3e1fedfbc6
+,Unspecified,Unspecified,4/15/2021,8:30,1,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbc7
+,Driver Inattention/Distraction,,4/14/2021,11:26,1,0,Sedan,,65226c0c27407f3e1fedfbc8
+,Unsafe Speed,Unsafe Lane Changing,4/14/2021,11:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbc9
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,4/14/2021,12:37,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfbca
+,Unsafe Speed,,4/14/2021,0:25,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbcb
+BRONX,Unspecified,Unspecified,4/14/2021,12:45,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbcc
+BROOKLYN,Unspecified,Unspecified,4/14/2021,14:25,1,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbcd
+,Unspecified,Unspecified,4/14/2021,23:20,1,0,Sedan,Sedan,65226c0c27407f3e1fedfbce
+BROOKLYN,Other Vehicular,Other Vehicular,4/15/2021,18:45,0,0,Sedan,Box Truck,65226c0c27407f3e1fedfbcf
+BROOKLYN,Reaction to Uninvolved Vehicle,,4/14/2021,15:34,1,0,Sedan,,65226c0c27407f3e1fedfbd0
+,Unspecified,,4/16/2021,23:30,0,0,Sedan,,65226c0c27407f3e1fedfbd1
+,Driver Inattention/Distraction,,4/15/2021,3:46,0,0,Sedan,,65226c0c27407f3e1fedfbd2
+,Following Too Closely,Unspecified,4/8/2021,0:00,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbd3
+BROOKLYN,Unspecified,Unspecified,4/14/2021,13:20,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbd4
+,Unspecified,Unspecified,4/14/2021,6:15,0,0,Tractor Truck Diesel,Sedan,65226c0c27407f3e1fedfbd5
+BROOKLYN,Unspecified,Unspecified,4/16/2021,15:12,1,0,Sedan,Bike,65226c0c27407f3e1fedfbd6
+BROOKLYN,Failure to Yield Right-of-Way,Unspecified,4/14/2021,19:30,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfbd7
+QUEENS,Unspecified,,4/14/2021,10:30,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbd8
+QUEENS,Unspecified,,4/15/2021,6:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbd9
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/13/2021,16:20,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfbda
+,Unspecified,,4/15/2021,1:20,1,0,Bike,,65226c0c27407f3e1fedfbdb
+,Failure to Yield Right-of-Way,Unspecified,4/12/2021,18:00,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfbdc
+,Unspecified,Unspecified,4/14/2021,17:25,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbdd
+BRONX,Other Vehicular,,4/12/2021,19:45,0,0,Sedan,,65226c0c27407f3e1fedfbde
+,Unspecified,,4/16/2021,16:46,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbdf
+,Unsafe Lane Changing,Unspecified,4/15/2021,9:20,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbe0
+QUEENS,Failure to Yield Right-of-Way,Unspecified,4/15/2021,13:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbe1
+QUEENS,Unspecified,Unspecified,4/14/2021,17:45,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbe2
+,Driver Inattention/Distraction,Unspecified,4/14/2021,9:30,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfbe3
+BRONX,Unspecified,,4/14/2021,0:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbe4
+BRONX,Unspecified,Unspecified,4/15/2021,16:54,1,0,Sedan,Sedan,65226c0c27407f3e1fedfbe5
+,Pavement Slippery,Following Too Closely,4/15/2021,19:20,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbe6
+,Unspecified,,4/16/2021,0:17,0,0,Sedan,,65226c0c27407f3e1fedfbe7
+BROOKLYN,Passing Too Closely,Unspecified,4/16/2021,13:02,0,0,Station Wagon/Sport Utility Vehicle,Box Truck,65226c0c27407f3e1fedfbe8
+BROOKLYN,Unspecified,,4/16/2021,11:38,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbe9
+,Unspecified,Unspecified,4/15/2021,22:50,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbea
+BROOKLYN,Following Too Closely,Unspecified,4/14/2021,13:07,1,0,Bike,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbeb
+BRONX,Turning Improperly,Unspecified,4/14/2021,18:49,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfbec
+,Traffic Control Disregarded,Traffic Control Disregarded,4/15/2021,22:35,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbed
+BRONX,Other Vehicular,,4/14/2021,22:20,0,0,Sedan,,65226c0c27407f3e1fedfbee
+QUEENS,Unspecified,Unspecified,4/16/2021,6:30,0,0,Sedan,,65226c0c27407f3e1fedfbef
+BROOKLYN,Unspecified,,4/14/2021,17:30,0,0,Sedan,,65226c0c27407f3e1fedfbf0
+BROOKLYN,Unspecified,,4/14/2021,9:50,1,0,Sedan,,65226c0c27407f3e1fedfbf1
+,Driver Inattention/Distraction,Unspecified,4/16/2021,12:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbf2
+,Following Too Closely,Unspecified,4/16/2021,11:30,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbf3
+,Driver Inattention/Distraction,Unspecified,4/14/2021,8:00,0,0,Bus,Sedan,65226c0c27407f3e1fedfbf4
+BROOKLYN,Following Too Closely,Unspecified,4/13/2021,9:35,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbf5
+QUEENS,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,4/14/2021,6:10,0,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedfbf6
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/16/2021,18:18,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbf7
+BROOKLYN,Unspecified,,4/16/2021,9:40,1,0,Sedan,,65226c0c27407f3e1fedfbf8
+QUEENS,Traffic Control Disregarded,Unspecified,4/14/2021,12:00,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbf9
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/16/2016,14:20,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfbfa
+,Unsafe Lane Changing,Unspecified,4/16/2021,1:30,0,0,Sedan,,65226c0c27407f3e1fedfbfb
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/10/2021,23:05,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfbfc
+,Following Too Closely,Unspecified,4/14/2021,5:32,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbfd
+STATEN ISLAND,Passing Too Closely,Passing Too Closely,4/16/2021,6:49,0,0,Bus,Sedan,65226c0c27407f3e1fedfbfe
+QUEENS,Unsafe Speed,Unspecified,4/15/2021,22:15,0,0,Sedan,Sedan,65226c0c27407f3e1fedfbff
+STATEN ISLAND,Traffic Control Disregarded,Unspecified,4/14/2021,15:10,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc00
+,Following Too Closely,Unspecified,4/16/2021,17:04,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc01
+,Unspecified,Unspecified,4/15/2021,13:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc02
+QUEENS,Driver Inattention/Distraction,Driver Inattention/Distraction,4/15/2021,16:50,0,0,Pick-up Truck,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc03
+,Following Too Closely,Unspecified,4/14/2021,16:02,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc04
+BROOKLYN,Passing Too Closely,Unspecified,4/6/2021,15:02,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc05
+,Following Too Closely,Unspecified,4/15/2021,15:00,1,0,Station Wagon/Sport Utility Vehicle,Pick-up Truck,65226c0c27407f3e1fedfc06
+,Unsafe Lane Changing,Unspecified,4/16/2021,6:50,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc07
+,Driver Inattention/Distraction,Driver Inattention/Distraction,4/14/2021,10:16,1,0,Station Wagon/Sport Utility Vehicle,Bike,65226c0c27407f3e1fedfc08
+,Following Too Closely,Unspecified,4/15/2021,5:36,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc09
+BROOKLYN,Passing Too Closely,Unspecified,4/6/2021,21:30,0,0,Sedan,,65226c0c27407f3e1fedfc0a
+BROOKLYN,Unspecified,,4/9/2021,20:00,0,0,Sedan,,65226c0c27407f3e1fedfc0b
+,Failure to Yield Right-of-Way,,4/15/2021,8:30,1,0,Sedan,,65226c0c27407f3e1fedfc0c
+,Failure to Yield Right-of-Way,Failure to Yield Right-of-Way,3/25/2021,9:52,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc0d
+,Unspecified,,4/15/2021,9:09,0,0,Sedan,,65226c0c27407f3e1fedfc0e
+,Driver Inattention/Distraction,Following Too Closely,4/14/2021,22:50,2,0,Station Wagon/Sport Utility Vehicle,Taxi,65226c0c27407f3e1fedfc0f
+QUEENS,Unspecified,,4/10/2021,18:50,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc10
+,Unspecified,Unspecified,4/15/2021,14:46,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc11
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,11:10,0,0,Tractor Truck Diesel,Tractor Truck Diesel,65226c0c27407f3e1fedfc12
+QUEENS,Driver Inattention/Distraction,Unspecified,4/16/2021,11:20,0,0,Sedan,Chassis Cab,65226c0c27407f3e1fedfc13
+,Unspecified,Unspecified,4/14/2021,18:04,2,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc14
+,Driver Inattention/Distraction,,4/14/2021,21:40,1,0,,,65226c0c27407f3e1fedfc15
+,Driver Inattention/Distraction,Unspecified,4/15/2020,15:20,0,0,Sedan,Tractor Truck Diesel,65226c0c27407f3e1fedfc16
+QUEENS,Unspecified,Unspecified,4/15/2021,16:10,3,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc17
+,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,4/8/2021,17:25,1,0,Bike,,65226c0c27407f3e1fedfc18
+QUEENS,Driver Inattention/Distraction,Unspecified,4/16/2021,9:29,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc19
+,Driverless/Runaway Vehicle,,4/14/2021,19:30,0,0,Sedan,,65226c0c27407f3e1fedfc1a
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,15:00,0,0,Sedan,,65226c0c27407f3e1fedfc1b
+,Unsafe Speed,,4/14/2021,3:04,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc1c
+,Unspecified,Unspecified,4/15/2021,19:45,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc1d
+QUEENS,Traffic Control Disregarded,Unspecified,4/13/2021,8:24,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc1e
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,13:16,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc1f
+BROOKLYN,Unspecified,,4/16/2021,8:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc20
+BRONX,Failure to Yield Right-of-Way,Other Vehicular,7/9/2021,14:19,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc21
+BRONX,Failure to Yield Right-of-Way,Unspecified,4/16/2021,20:17,1,0,E-Bike,Sedan,65226c0c27407f3e1fedfc22
+STATEN ISLAND,Driver Inexperience,Turning Improperly,4/15/2021,16:08,1,0,Station Wagon/Sport Utility Vehicle,Van,65226c0c27407f3e1fedfc23
+,Unspecified,,4/14/2021,10:00,0,0,Sedan,,65226c0c27407f3e1fedfc24
+BROOKLYN,Unspecified,,4/15/2021,17:47,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc25
+,Driver Inattention/Distraction,Unspecified,4/15/2021,12:00,0,0,Station Wagon/Sport Utility Vehicle,Bus,65226c0c27407f3e1fedfc26
+QUEENS,Failure to Yield Right-of-Way,View Obstructed/Limited,4/15/2021,20:29,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc27
+BROOKLYN,Unspecified,Unspecified,4/14/2021,13:06,0,0,Sedan,,65226c0c27407f3e1fedfc28
+,Driver Inattention/Distraction,Unspecified,4/10/2021,16:28,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc29
+,Passing Too Closely,Unspecified,4/16/2021,10:15,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc2a
+,Driver Inattention/Distraction,Unspecified,4/16/2021,4:00,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc2b
+QUEENS,Turning Improperly,Unspecified,4/16/2021,20:59,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc2c
+BROOKLYN,Unspecified,Unspecified,4/15/2021,22:27,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc2d
+,Driver Inattention/Distraction,Unspecified,4/15/2021,19:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc2e
+,Pavement Slippery,Pavement Slippery,4/16/2021,6:30,4,0,Sedan,Sedan,65226c0c27407f3e1fedfc2f
+BROOKLYN,Unspecified,Unspecified,4/16/2021,7:30,0,0,Box Truck,Sedan,65226c0c27407f3e1fedfc30
+BROOKLYN,Unsafe Speed,Turning Improperly,4/16/2021,9:35,2,0,Sedan,Taxi,65226c0c27407f3e1fedfc31
+QUEENS,Aggressive Driving/Road Rage,Unspecified,4/15/2021,0:08,1,0,scooter,,65226c0c27407f3e1fedfc32
+MANHATTAN,Unspecified,,4/15/2021,17:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc33
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,4/16/2021,2:12,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc34
+BRONX,Failure to Yield Right-of-Way,Unspecified,4/13/2021,16:49,2,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc35
+BRONX,Failure to Yield Right-of-Way,Unspecified,9/11/2021,21:00,1,0,E-Bike,Sedan,65226c0c27407f3e1fedfc36
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/14/2021,15:00,0,0,CATER,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc37
+,Passing or Lane Usage Improper,Driver Inattention/Distraction,4/14/2021,20:25,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc38
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/10/2021,13:45,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc39
+BROOKLYN,Traffic Control Disregarded,Unspecified,4/16/2021,18:45,0,0,Bus,Sedan,65226c0c27407f3e1fedfc3a
+BROOKLYN,Passing Too Closely,Unspecified,4/14/2021,0:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc3b
+QUEENS,Failure to Yield Right-of-Way,Unspecified,4/15/2021,15:05,2,0,Sedan,Sedan,65226c0c27407f3e1fedfc3c
+MANHATTAN,Driver Inattention/Distraction,,4/16/2021,21:04,0,0,Taxi,,65226c0c27407f3e1fedfc3d
+,Unspecified,Unspecified,4/16/2021,0:00,0,0,PKUP,Hopper,65226c0c27407f3e1fedfc3e
+QUEENS,Following Too Closely,Unspecified,4/14/2021,8:20,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc3f
+,Following Too Closely,Unspecified,4/15/2021,15:45,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc40
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,18:23,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc41
+BRONX,Traffic Control Disregarded,Unspecified,4/14/2021,21:20,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc42
+BROOKLYN,Unspecified,Unspecified,4/2/2021,22:20,1,0,Station Wagon/Sport Utility Vehicle,E-Bike,65226c0c27407f3e1fedfc43
+BRONX,Unspecified,,4/14/2021,16:00,0,0,Sedan,,65226c0c27407f3e1fedfc44
+BRONX,Unspecified,Unspecified,4/14/2021,11:00,0,0,Sedan,,65226c0c27407f3e1fedfc45
+QUEENS,Passing or Lane Usage Improper,Unspecified,4/14/2021,8:45,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc46
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,22:32,2,0,Sedan,Sedan,65226c0c27407f3e1fedfc47
+,Unspecified,,4/9/2021,18:15,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc48
+BROOKLYN,Unspecified,Unspecified,4/14/2021,11:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc49
+,Following Too Closely,Unspecified,4/16/2021,15:04,2,0,Sedan,Sedan,65226c0c27407f3e1fedfc4a
+BROOKLYN,Unspecified,,4/14/2021,18:10,0,0,Sedan,,65226c0c27407f3e1fedfc4b
+BROOKLYN,Unspecified,,4/13/2021,13:00,0,0,Sedan,,65226c0c27407f3e1fedfc4c
+,Other Vehicular,Unspecified,4/16/2021,15:20,4,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc4d
+,Traffic Control Disregarded,Unspecified,4/16/2021,18:25,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc4e
+QUEENS,Driver Inattention/Distraction,,4/15/2021,17:03,1,0,Sedan,,65226c0c27407f3e1fedfc4f
+,Passing Too Closely,Unspecified,4/16/2021,8:40,0,0,Box Truck,Sedan,65226c0c27407f3e1fedfc50
+,Failure to Yield Right-of-Way,Unspecified,9/8/2021,18:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc51
+,Backing Unsafely,Unspecified,4/16/2021,15:00,0,0,Bus,Sedan,65226c0c27407f3e1fedfc52
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,14:54,0,0,Box Truck,Sedan,65226c0c27407f3e1fedfc53
+,Unspecified,,4/15/2021,9:30,0,0,Sedan,,65226c0c27407f3e1fedfc54
+,Unsafe Speed,Reaction to Uninvolved Vehicle,4/14/2021,23:26,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc55
+,Driver Inattention/Distraction,Unspecified,4/13/2021,17:20,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc56
+BROOKLYN,Other Vehicular,Following Too Closely,4/15/2021,16:20,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc57
+,Reaction to Uninvolved Vehicle,Unspecified,4/15/2021,7:34,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc58
+QUEENS,Alcohol Involvement,Unspecified,4/14/2021,2:10,0,0,Pick-up Truck,Sedan,65226c0c27407f3e1fedfc59
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,15:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc5a
+BROOKLYN,Turning Improperly,Unspecified,4/14/2021,7:44,0,0,Sedan,FDNY TRUCK,65226c0c27407f3e1fedfc5b
+,Following Too Closely,Unspecified,4/16/2021,15:16,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc5c
+STATEN ISLAND,Passing or Lane Usage Improper,Unspecified,4/15/2021,13:45,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc5d
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,0:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc5e
+,Other Vehicular,Failure to Yield Right-of-Way,4/14/2021,19:40,0,0,Carry All,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc5f
+,Turning Improperly,Unspecified,4/13/2021,14:44,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc60
+BRONX,Unsafe Lane Changing,Unspecified,4/14/2021,9:30,0,0,FDNY Ambul,Pick-up Truck,65226c0c27407f3e1fedfc61
+,Following Too Closely,Unspecified,4/14/2021,13:20,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc62
+,Passing or Lane Usage Improper,Unspecified,4/15/2021,16:00,0,0,Station Wagon/Sport Utility Vehicle,Garbage or Refuse,65226c0c27407f3e1fedfc63
+,Unsafe Speed,Unspecified,4/16/2021,20:24,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc64
+,Driver Inattention/Distraction,Unspecified,4/16/2021,16:25,0,0,Box Truck,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc65
+QUEENS,Following Too Closely,Driver Inexperience,4/15/2021,15:45,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc66
+MANHATTAN,Driver Inattention/Distraction,,9/9/2021,16:45,1,0,Sedan,,65226c0c27407f3e1fedfc67
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/8/2021,13:25,0,0,Pick-up Truck,Sedan,65226c0c27407f3e1fedfc68
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/1/2021,15:10,0,0,Sedan,Bike,65226c0c27407f3e1fedfc69
+BRONX,Unspecified,,4/14/2021,12:12,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc6a
+QUEENS,Backing Unsafely,,4/5/2021,9:15,1,0,Sedan,,65226c0c27407f3e1fedfc6b
+QUEENS,Backing Unsafely,Unspecified,4/16/2021,16:20,0,0,Sedan,,65226c0c27407f3e1fedfc6c
+BROOKLYN,Unspecified,Unspecified,4/15/2021,9:00,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc6d
+,Unspecified,,8/28/2021,18:00,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc6e
+MANHATTAN,Driver Inattention/Distraction,,4/10/2021,11:15,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc6f
+,Unspecified,,4/13/2021,13:40,0,0,Bus,Bus,65226c0c27407f3e1fedfc70
+STATEN ISLAND,Failure to Yield Right-of-Way,,4/15/2021,15:34,1,0,Sedan,,65226c0c27407f3e1fedfc71
+,Following Too Closely,Unspecified,4/10/2021,8:50,0,0,Pick-up Truck,Sedan,65226c0c27407f3e1fedfc72
+STATEN ISLAND,Unspecified,Unspecified,4/15/2021,12:15,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc73
+QUEENS,Driver Inattention/Distraction,Unspecified,4/7/2021,14:30,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfc74
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,5:39,3,0,Sedan,Sedan,65226c0c27407f3e1fedfc75
+MANHATTAN,Other Vehicular,Turning Improperly,4/16/2021,22:00,0,0,Station Wagon/Sport Utility Vehicle,Van,65226c0c27407f3e1fedfc76
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/15/2021,20:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc77
+QUEENS,Driver Inattention/Distraction,Unspecified,4/16/2021,14:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc78
+,Traffic Control Disregarded,,4/14/2021,8:45,0,0,Box Truck,,65226c0c27407f3e1fedfc79
+QUEENS,Driver Inattention/Distraction,Unspecified,4/14/2021,17:00,0,0,Sedan,,65226c0c27407f3e1fedfc7a
+QUEENS,Passing Too Closely,Unspecified,4/15/2021,23:09,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc7b
+BROOKLYN,Failure to Yield Right-of-Way,Unspecified,4/16/2021,15:32,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc7c
+BROOKLYN,Unspecified,,4/16/2021,22:45,0,0,Sedan,,65226c0c27407f3e1fedfc7d
+BROOKLYN,Passing Too Closely,Unspecified,4/14/2021,11:40,0,0,Sedan,,65226c0c27407f3e1fedfc7e
+,Driver Inattention/Distraction,Unspecified,4/14/2021,14:15,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc7f
+QUEENS,Driver Inattention/Distraction,Unspecified,4/14/2021,10:10,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc80
+,Passing or Lane Usage Improper,Unspecified,4/10/2021,0:00,0,0,Sedan,,65226c0c27407f3e1fedfc81
+STATEN ISLAND,Unspecified,,4/15/2021,20:00,0,0,Sedan,,65226c0c27407f3e1fedfc82
+BROOKLYN,Unspecified,Unspecified,4/16/2021,12:30,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc83
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/16/2021,16:15,0,0,Taxi,Bus,65226c0c27407f3e1fedfc84
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,4/2/2021,18:00,0,0,Pick-up Truck,,65226c0c27407f3e1fedfc85
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/14/2021,19:01,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc86
+QUEENS,Driver Inattention/Distraction,Unspecified,9/11/2021,13:30,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc87
+MANHATTAN,Passing Too Closely,Unspecified,4/15/2021,10:13,0,0,3-Door,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc88
+BRONX,Unspecified,,4/14/2021,9:40,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc89
+BRONX,Following Too Closely,Unspecified,4/10/2021,22:06,4,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc8a
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/13/2021,8:04,1,0,Sedan,E-Scooter,65226c0c27407f3e1fedfc8b
+BRONX,Traffic Control Disregarded,Unspecified,4/15/2021,23:06,1,0,Sedan,Sedan,65226c0c27407f3e1fedfc8c
+,Passing Too Closely,Unspecified,4/14/2021,12:00,0,0,Sedan,Box Truck,65226c0c27407f3e1fedfc8d
+BROOKLYN,Traffic Control Disregarded,Unspecified,4/10/2021,4:45,0,0,Sedan,,65226c0c27407f3e1fedfc8e
+,Passing or Lane Usage Improper,Unspecified,4/14/2021,17:30,0,0,Box Truck,Pick-up Truck,65226c0c27407f3e1fedfc8f
+,Unspecified,Unspecified,4/14/2021,22:40,2,0,Station Wagon/Sport Utility Vehicle,Box Truck,65226c0c27407f3e1fedfc90
+BROOKLYN,Turning Improperly,,4/14/2021,12:47,2,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc91
+,Backing Unsafely,,4/16/2021,14:30,0,0,Sedan,,65226c0c27407f3e1fedfc92
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/15/2021,0:00,3,0,Sedan,,65226c0c27407f3e1fedfc93
+,Following Too Closely,,4/14/2021,6:55,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfc94
+QUEENS,Unspecified,,4/14/2021,19:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc95
+STATEN ISLAND,Failure to Yield Right-of-Way,Unspecified,4/14/2021,17:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc96
+QUEENS,Unspecified,,4/14/2021,6:15,0,0,Sedan,,65226c0c27407f3e1fedfc97
+BROOKLYN,Passing or Lane Usage Improper,Unspecified,4/15/2021,8:15,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc98
+BROOKLYN,Following Too Closely,Unspecified,4/16/2021,13:45,0,0,Taxi,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc99
+MANHATTAN,Driver Inattention/Distraction,Unspecified,4/14/2021,16:25,1,0,Sedan,Taxi,65226c0c27407f3e1fedfc9a
+,Unsafe Lane Changing,Unspecified,4/15/2021,0:01,0,0,Taxi,,65226c0c27407f3e1fedfc9b
+BROOKLYN,Unsafe Speed,Unspecified,4/15/2021,3:00,0,0,Sedan,Sedan,65226c0c27407f3e1fedfc9c
+,Driver Inattention/Distraction,Unspecified,4/15/2021,9:00,1,0,Beverage Truck,Bus,65226c0c27407f3e1fedfc9d
+BROOKLYN,Other Vehicular,Other Vehicular,4/14/2021,7:40,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc9e
+QUEENS,Unspecified,Unspecified,9/11/2021,20:15,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfc9f
+BROOKLYN,Driver Inattention/Distraction,Unspecified,4/16/2021,8:00,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfca0
+BROOKLYN,Driver Inexperience,Unspecified,4/15/2021,5:27,1,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfca1
+QUEENS,Driver Inattention/Distraction,Unspecified,4/15/2021,18:10,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfca2
+,Passing Too Closely,Unspecified,4/16/2021,17:15,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfca3
+,Driver Inattention/Distraction,Unspecified,4/14/2021,16:42,0,0,Box Truck,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfca4
+MANHATTAN,Unspecified,Unspecified,4/15/2021,14:56,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfca5
+BROOKLYN,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,,4/15/2021,20:50,1,0,Pick-up Truck,,65226c0c27407f3e1fedfca6
+BROOKLYN,Driver Inattention/Distraction,Traffic Control Disregarded,4/15/2021,18:16,3,0,Sedan,Sedan,65226c0c27407f3e1fedfca7
+MANHATTAN,Unspecified,Unspecified,4/4/2021,4:00,0,0,Sedan,,65226c0c27407f3e1fedfca8
+,Traffic Control Disregarded,,4/15/2021,16:10,1,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfca9
+QUEENS,Backing Unsafely,Unspecified,4/16/2021,21:20,1,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfcaa
+MANHATTAN,Driver Inattention/Distraction,Driver Inattention/Distraction,4/14/2021,12:00,0,0,Sedan,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfcab
+BRONX,Unspecified,Unspecified,4/14/2021,18:14,1,0,Sedan,Bike,65226c0c27407f3e1fedfcac
+BROOKLYN,Unspecified,,4/15/2021,21:42,0,0,Station Wagon/Sport Utility Vehicle,,65226c0c27407f3e1fedfcad
+BROOKLYN,Passing Too Closely,Unspecified,4/16/2021,12:00,0,0,Sedan,,65226c0c27407f3e1fedfcae
+QUEENS,Driver Inattention/Distraction,Driver Inattention/Distraction,4/16/2021,12:07,1,0,Sedan,Sedan,65226c0c27407f3e1fedfcaf
+BROOKLYN,Failure to Yield Right-of-Way,Unspecified,4/14/2021,18:55,0,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfcb0
+BRONX,Passing Too Closely,Unspecified,4/14/2021,18:38,0,0,Sedan,Box Truck,65226c0c27407f3e1fedfcb1
+,Unspecified,Unspecified,4/11/2021,9:20,1,0,Sedan,Sedan,65226c0c27407f3e1fedfcb2
+QUEENS,Driver Inattention/Distraction,Unspecified,4/14/2021,1:00,1,0,Station Wagon/Sport Utility Vehicle,Sedan,65226c0c27407f3e1fedfcb3
+BROOKLYN,Oversized Vehicle,Unspecified,4/16/2021,14:00,0,0,Sedan,Bus,65226c0c27407f3e1fedfcb4
+STATEN ISLAND,Driver Inattention/Distraction,Unspecified,4/14/2021,2:10,0,0,Sedan,Sedan,65226c0c27407f3e1fedfcb5
+BROOKLYN,Unspecified,Unspecified,4/14/2021,12:30,0,0,Sedan,VAN/TRUCK,65226c0c27407f3e1fedfcb6
+,Driver Inattention/Distraction,Driver Inexperience,4/16/2021,10:50,0,0,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,65226c0c27407f3e1fedfcb7
+sedrtfyguhijuh7g6,,,,,,,,,652302f7e74250c0fec366d8
+sedrtfyguhijuh7g6,,,,,,,,,652303e27133b00f2196d70b
+sedrtfyguhijuh7g6,,,,,,,,,6523040e4fe0bad8556d5eef
+sedrtfyguhijuh7g6,,,,,,,,,65230533161abcf1467aafc5
+sedrtfyguhijuh7g6,,,,,,,,,652305d35dff1ae3fd5f522d
+,,,,,,,,,6523966b3b7b8d266cad0a35
+,,,,,,,,,652396f23b7b8d266cad0a38
+,,,,,,,,,6523975e3b7b8d266cad0a3a
+,,,,,,,,,6523976a3b7b8d266cad0a3c
+,,,,,,,,,6523978b3b7b8d266cad0a3f
+,,,,,,,,,652397af85bd11a65942fab5

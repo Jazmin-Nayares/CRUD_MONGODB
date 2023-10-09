@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/public/css/style.css">  
+
+    <title>CRUD_MONGO_CAR_CRASHES</title>
+
+    <style>
+        .container{
+            max-width: 960px;
+        }
+    </style>
+
+</head>
+  <body>
+    <div class="container">
+        <div class="shadow-lg pb-2 mb-6 bg-body rounded">
+            <h4 style="padding-left: 30px;">Registro</h4>
+            <form action="/crear" method="POST">
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="Date">CRASH_DATE:</label>
+                    <input id="Date" name="Date" type="text" class="form-control" required>
+                </div>
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="Time">CRASH_TIME:</label>
+                    <input id="Time" name="Time" type="text" class="form-control" required>
+                </div>
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="Borough">BOROUGH:</label>
+                    <input id="Borough" name="Borough" type="text" class="form-control" required>
+                </div>
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="P_I">NUMBER OF PERSONS INJURED:</label>
+                    <input id="P_I" name="P_I" type="Number" class="form-control" required>
+                </div>
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="P_K">NUMBER OF PERSONS KILLED:</label>
+                    <input id="P_K" name="P_K" type="Number" class="form-control" required>
+            `   </div>
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="F_V1">CONTRIBUTING FACTOR VEHICLE 1:</label>
+                    <input id="F_V1" name="F_V1" type="text" class="form-control" required>
+                </div>
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="F_V2">CONTRIBUTING FACTOR VEHICLE 2:</label>
+                    <input id="F_V2" name="F_V2" type="text" class="form-control" required>
+                </div>
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="T_V1">VEHICLE TYPE CODE 1:</label>
+                    <input id="T_V1" name="T_V1" type="text" class="form-control" required>
+                </div>
+                <div class="col-md-6" style="padding-left: 5px;">
+                    <label for="T_V2">VEHICLE TYPE CODE 2:</label>
+                    <input id="T_V2" name="T_V2" type="text" class="form-control" required>
+                </div>
+                <br>
+                <button type="submit" class="w-100 btn btn-lg" style="padding: 15px;background-color: #20c997;"><i class="bi bi-save"></i>Registrar reporte</button>
+
+            </form>
+        </div>
+        <table id="tablaReporte" class="table mt-4">
+            <thead>
+                <tr>
+                    <th>CRASH_DATE</th>
+                    <th>CRASH_TIME</th>
+                    <th>BOROUGH</th>
+                    <th>PERSONS INJURED</th>
+                    <th>PERSONS KILLED</th>
+                    <th>FACTOR 1</th>
+                    <th>FACTOR 2</th>
+                    <th>VEHICLE 1</th>
+                    <th>VEHICLE 2</th>
+                    <th>ACCIONES</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% reportes.forEach( (reporte) => { %>
+                    <tr>
+                        <td><%= reporte['CRASH DATE'] %></td>
+                        <td><%= reporte['CRASH TIME'] %></td>
+                        <td><%= reporte.BOROUGH %></td>
+                        <td><%= reporte['NUMBER OF PERSONS INJURED'] %></td>
+                        <td><%= reporte['NUMBER OF PERSONS KILLED'] %></td>
+                        <td><%= reporte['CONTRIBUTING FACTOR VEHICLE 1'] %></td>
+                        <td><%= reporte['CONTRIBUTING FACTOR VEHICLE 2'] %></td>
+                        <td><%= reporte['VEHICLE TYPE CODE 1'] %></td>
+                        <td><%= reporte['VEHICLE TYPE CODE 2'] %></td>
+                        <td>
+                            <button type="button" class="btnEditar btn btn-outline-primary bi bi-pencil" onclick="Editar(this)"></button>
+                            <a href="/borrar/<%= reporte._id %>" class="btn btn-outline-danger bi bi-trash"></a>
+                        </td>
+                    </tr>
+
+                <% }) %>
+            </tbody>
+
+        </table>
+    </div>
+
+    <div id="modalReporte" class="modal fade" tabindex="-1" aria-labelledby="modalReporte" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header bg-primary text-white">
+              <h5 class="modal-title" id="exampleMosalLabel">Editar Informacion</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            
+            <div class="modal-body">
+                <form action="/editar/<%= reportes[0]._id %>" method="POST">
+                    <!-- Incluye el ID del primer reporte en el campo id_editar -->
+                    <input name="id_editar" id="id_editar" value="<%= reportes[0]._id %>" hidden/>
+
+                    <div class="col-md-6" style="padding-left: 5px;">
+                        <label for="Date_editar">CRASH_DATE:</label>
+                        <input id="Date_editar" name="Date_editar" type="text" class="form-control" value="">
+                    </div>
+                    <div class="col-md-6" style="padding-left: 5px;">
+                        <label for="Time_editar">CRASH_TIME:</label>
+                        <input id="Time_editar" name="Time_editar" type="text" class="form-control" value="">
+                    </div>
+                </div>
+                
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save changes</button>
+                </form>
+            </div>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="../public/js/code.js"></script>
+</body>
+</html>
+
+<script>
+    function Editar(btn) {
+        const modalReporte = new bootstrap.Modal(document.getElementById('modalReporte'));
+
+       const fila = btn.closest('tr');
+
+        Date_editar.value = fila.children[0].innerHTML;
+        Time_editar.value = fila.children[1].innerHTML;
+
+        modalReporte.show();
+    }
+</script>
